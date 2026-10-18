@@ -1,0 +1,1419 @@
+CODICE_REGIONE;Territorio;Localizzazione dell incidente;Natura dell incidente;Altri veicoli;Autobus e filobus;Autocarri e motrici;Autovetture;Ciclomotori;Motocarri;Motocicli;Quadricicli;Tram;Velocipede
+ABRUZZO;Chieti;Altra strada;Incidente a veicolo isolato;0;0;2;84;6;0;18;0;0;2
+ABRUZZO;Chieti;Altra strada;Incidente tra veicoli;26;8;40;588;2;0;56;2;0;32
+ABRUZZO;Chieti;Altra strada;Incidente tra veicolo e pedone;2;0;0;4;0;0;2;0;0;0
+ABRUZZO;Chieti;Altra strada;Totale;28;8;42;676;8;0;76;2;0;34
+ABRUZZO;Chieti;Autostrada;Incidente a veicolo isolato;0;0;2;34;0;0;6;0;0;0
+ABRUZZO;Chieti;Autostrada;Incidente tra veicoli;30;4;82;284;0;0;8;0;0;0
+ABRUZZO;Chieti;Autostrada;Totale;30;4;84;318;0;0;14;0;0;0
+ABRUZZO;Chieti;Strada urbana;Incidente a veicolo isolato;0;0;8;100;6;0;26;0;0;2
+ABRUZZO;Chieti;Strada urbana;Incidente tra veicoli;6;10;72;1082;68;0;214;2;0;72
+ABRUZZO;Chieti;Strada urbana;Incidente tra veicolo e pedone;2;0;4;124;4;0;4;0;0;2
+ABRUZZO;Chieti;Strada urbana;Totale;8;10;84;1306;78;0;244;2;0;76
+ABRUZZO;Chieti;Totale;Incidente a veicolo isolato;0;0;12;218;12;0;50;0;0;4
+ABRUZZO;Chieti;Totale;Incidente tra veicoli;62;22;194;1954;70;0;278;4;0;104
+ABRUZZO;Chieti;Totale;Incidente tra veicolo e pedone;4;0;4;128;4;0;6;0;0;2
+ABRUZZO;Chieti;Totale;Totale;66;22;210;2300;86;0;334;4;0;110
+ABRUZZO;Pescara;Altra strada;Incidente a veicolo isolato;0;0;4;72;2;0;20;0;0;0
+ABRUZZO;Pescara;Altra strada;Incidente tra veicoli;12;0;38;360;12;0;34;2;0;8
+ABRUZZO;Pescara;Altra strada;Incidente tra veicolo e pedone;0;0;0;6;0;0;0;0;0;0
+ABRUZZO;Pescara;Altra strada;Totale;12;0;42;438;14;0;54;2;0;8
+ABRUZZO;Pescara;Autostrada;Incidente a veicolo isolato;0;0;0;14;0;0;2;0;0;0
+ABRUZZO;Pescara;Autostrada;Incidente tra veicoli;4;0;8;58;0;0;0;0;0;0
+ABRUZZO;Pescara;Autostrada;Totale;4;0;8;72;0;0;2;0;0;0
+ABRUZZO;Pescara;Strada urbana;Incidente a veicolo isolato;0;6;6;76;26;0;36;0;0;24
+ABRUZZO;Pescara;Strada urbana;Incidente tra veicoli;68;12;102;1760;144;0;440;2;0;256
+ABRUZZO;Pescara;Strada urbana;Incidente tra veicolo e pedone;6;6;12;212;4;0;16;0;0;10
+ABRUZZO;Pescara;Strada urbana;Totale;74;24;120;2048;174;0;492;2;0;290
+ABRUZZO;Pescara;Totale;Incidente a veicolo isolato;0;6;10;162;28;0;58;0;0;24
+ABRUZZO;Pescara;Totale;Incidente tra veicoli;84;12;148;2178;156;0;474;4;0;264
+ABRUZZO;Pescara;Totale;Incidente tra veicolo e pedone;6;6;12;218;4;0;16;0;0;10
+ABRUZZO;Pescara;Totale;Totale;90;24;170;2558;188;0;548;4;0;298
+ABRUZZO;Teramo;Altra strada;Incidente a veicolo isolato;0;0;16;80;2;0;24;0;0;0
+ABRUZZO;Teramo;Altra strada;Incidente tra veicoli;28;0;58;550;10;0;52;0;0;36
+ABRUZZO;Teramo;Altra strada;Incidente tra veicolo e pedone;0;0;2;18;0;0;0;0;0;0
+ABRUZZO;Teramo;Altra strada;Totale;28;0;76;648;12;0;76;0;0;36
+ABRUZZO;Teramo;Autostrada;Incidente a veicolo isolato;0;0;4;24;0;0;4;0;0;0
+ABRUZZO;Teramo;Autostrada;Incidente tra veicoli;22;2;56;148;0;0;6;0;0;0
+ABRUZZO;Teramo;Autostrada;Totale;22;2;60;172;0;0;10;0;0;0
+ABRUZZO;Teramo;Strada urbana;Incidente a veicolo isolato;0;0;6;80;10;0;18;0;0;12
+ABRUZZO;Teramo;Strada urbana;Incidente tra veicoli;36;12;104;1190;40;0;192;0;0;126
+ABRUZZO;Teramo;Strada urbana;Incidente tra veicolo e pedone;4;0;10;108;0;0;8;0;0;2
+ABRUZZO;Teramo;Strada urbana;Totale;40;12;120;1378;50;0;218;0;0;140
+ABRUZZO;Teramo;Totale;Incidente a veicolo isolato;0;0;26;184;12;0;46;0;0;12
+ABRUZZO;Teramo;Totale;Incidente tra veicoli;86;14;218;1888;50;0;250;0;0;162
+ABRUZZO;Teramo;Totale;Incidente tra veicolo e pedone;4;0;12;126;0;0;8;0;0;2
+ABRUZZO;Teramo;Totale;Totale;90;14;256;2198;62;0;304;0;0;176
+BASILICATA;Matera;Altra strada;Incidente a veicolo isolato;0;0;6;96;0;0;24;2;0;0
+BASILICATA;Matera;Altra strada;Incidente tra veicoli;24;6;62;284;0;0;42;0;0;14
+BASILICATA;Matera;Altra strada;Incidente tra veicolo e pedone;0;0;0;2;0;0;0;0;0;0
+BASILICATA;Matera;Altra strada;Totale;24;6;68;382;0;0;66;2;0;14
+BASILICATA;Matera;Strada urbana;Incidente a veicolo isolato;0;2;4;32;4;0;14;0;0;4
+BASILICATA;Matera;Strada urbana;Incidente tra veicoli;8;6;32;498;38;0;106;0;0;34
+BASILICATA;Matera;Strada urbana;Incidente tra veicolo e pedone;0;0;4;80;0;0;2;0;0;2
+BASILICATA;Matera;Strada urbana;Totale;8;8;40;610;42;0;122;0;0;40
+BASILICATA;Matera;Totale;Incidente a veicolo isolato;0;2;10;128;4;0;38;2;0;4
+BASILICATA;Matera;Totale;Incidente tra veicoli;32;12;94;782;38;0;148;0;0;48
+BASILICATA;Matera;Totale;Incidente tra veicolo e pedone;0;0;4;82;0;0;2;0;0;2
+BASILICATA;Matera;Totale;Totale;32;14;108;992;42;0;188;2;0;54
+BASILICATA;Potenza;Altra strada;Incidente a veicolo isolato;0;0;4;120;6;0;20;0;0;0
+BASILICATA;Potenza;Altra strada;Incidente tra veicoli;10;12;52;468;6;0;26;2;0;4
+BASILICATA;Potenza;Altra strada;Incidente tra veicolo e pedone;2;0;0;10;0;0;0;0;0;2
+BASILICATA;Potenza;Altra strada;Totale;12;12;56;598;12;0;46;2;0;6
+BASILICATA;Potenza;Autostrada;Incidente a veicolo isolato;0;0;4;34;0;0;4;0;0;0
+BASILICATA;Potenza;Autostrada;Incidente tra veicoli;0;0;20;72;0;0;2;0;0;0
+BASILICATA;Potenza;Autostrada;Totale;0;0;24;106;0;0;6;0;0;0
+BASILICATA;Potenza;Strada urbana;Incidente a veicolo isolato;0;2;0;56;4;0;22;0;0;4
+BASILICATA;Potenza;Strada urbana;Incidente tra veicoli;16;6;40;724;22;0;72;6;0;10
+BASILICATA;Potenza;Strada urbana;Incidente tra veicolo e pedone;4;0;6;82;0;0;2;0;0;0
+BASILICATA;Potenza;Strada urbana;Totale;20;8;46;862;26;0;96;6;0;14
+BASILICATA;Potenza;Totale;Incidente a veicolo isolato;0;2;8;210;10;0;46;0;0;4
+BASILICATA;Potenza;Totale;Incidente tra veicoli;26;18;112;1264;28;0;100;8;0;14
+BASILICATA;Potenza;Totale;Incidente tra veicolo e pedone;6;0;6;92;0;0;2;0;0;2
+BASILICATA;Potenza;Totale;Totale;32;20;126;1566;38;0;148;8;0;20
+CALABRIA;Catanzaro;Altra strada;Incidente a veicolo isolato;0;0;8;82;2;2;10;0;0;0
+CALABRIA;Catanzaro;Altra strada;Incidente tra veicoli;12;2;60;560;8;0;44;0;0;14
+CALABRIA;Catanzaro;Altra strada;Incidente tra veicolo e pedone;0;0;0;6;0;0;2;0;0;0
+CALABRIA;Catanzaro;Altra strada;Totale;12;2;68;648;10;2;56;0;0;14
+CALABRIA;Catanzaro;Autostrada;Incidente a veicolo isolato;0;0;2;22;0;0;4;0;0;0
+CALABRIA;Catanzaro;Autostrada;Incidente tra veicoli;0;2;18;58;0;0;0;0;0;0
+CALABRIA;Catanzaro;Autostrada;Totale;0;2;20;80;0;0;4;0;0;0
+CALABRIA;Catanzaro;Strada urbana;Incidente a veicolo isolato;0;0;2;86;4;0;34;0;0;2
+CALABRIA;Catanzaro;Strada urbana;Incidente tra veicoli;20;8;44;788;24;0;158;0;0;40
+CALABRIA;Catanzaro;Strada urbana;Incidente tra veicolo e pedone;0;2;12;96;4;0;2;0;0;0
+CALABRIA;Catanzaro;Strada urbana;Totale;20;10;58;970;32;0;194;0;0;42
+CALABRIA;Catanzaro;Totale;Incidente a veicolo isolato;0;0;12;190;6;2;48;0;0;2
+CALABRIA;Catanzaro;Totale;Incidente tra veicoli;32;12;122;1406;32;0;202;0;0;54
+CALABRIA;Catanzaro;Totale;Incidente tra veicolo e pedone;0;2;12;102;4;0;4;0;0;0
+CALABRIA;Catanzaro;Totale;Totale;32;14;146;1698;42;2;254;0;0;56
+CALABRIA;Cosenza;Altra strada;Incidente a veicolo isolato;0;0;16;142;4;0;22;2;0;0
+CALABRIA;Cosenza;Altra strada;Incidente tra veicoli;28;6;110;868;14;0;104;0;0;2
+CALABRIA;Cosenza;Altra strada;Incidente tra veicolo e pedone;0;0;0;12;0;0;0;0;0;0
+CALABRIA;Cosenza;Altra strada;Totale;28;6;126;1022;18;0;126;2;0;2
+CALABRIA;Cosenza;Autostrada;Incidente a veicolo isolato;0;0;16;56;0;0;14;0;0;0
+CALABRIA;Cosenza;Autostrada;Incidente tra veicoli;36;0;60;174;0;0;2;0;0;0
+CALABRIA;Cosenza;Autostrada;Totale;36;0;76;230;0;0;16;0;0;0
+CALABRIA;Cosenza;Strada urbana;Incidente a veicolo isolato;0;0;4;94;14;0;26;0;0;4
+CALABRIA;Cosenza;Strada urbana;Incidente tra veicoli;24;6;80;1452;20;4;202;6;0;58
+CALABRIA;Cosenza;Strada urbana;Incidente tra veicolo e pedone;2;0;20;120;0;0;4;0;0;2
+CALABRIA;Cosenza;Strada urbana;Totale;26;6;104;1666;34;4;232;6;0;64
+CALABRIA;Cosenza;Totale;Incidente a veicolo isolato;0;0;36;292;18;0;62;2;0;4
+CALABRIA;Cosenza;Totale;Incidente tra veicoli;88;12;250;2494;34;4;308;6;0;60
+CALABRIA;Cosenza;Totale;Incidente tra veicolo e pedone;2;0;20;132;0;0;4;0;0;2
+CALABRIA;Cosenza;Totale;Totale;90;12;306;2918;52;4;374;8;0;66
+CALABRIA;Crotone;Altra strada;Incidente a veicolo isolato;0;0;6;56;0;0;10;0;0;2
+CALABRIA;Crotone;Altra strada;Incidente tra veicoli;4;0;38;240;2;0;8;0;0;0
+CALABRIA;Crotone;Altra strada;Incidente tra veicolo e pedone;0;0;0;10;0;0;0;0;0;0
+CALABRIA;Crotone;Altra strada;Totale;4;0;44;306;2;0;18;0;0;2
+CALABRIA;Crotone;Strada urbana;Incidente a veicolo isolato;0;0;4;46;2;2;16;0;0;4
+CALABRIA;Crotone;Strada urbana;Incidente tra veicoli;6;0;26;502;8;2;62;0;0;24
+CALABRIA;Crotone;Strada urbana;Incidente tra veicolo e pedone;0;0;0;56;0;0;4;0;0;2
+CALABRIA;Crotone;Strada urbana;Totale;6;0;30;604;10;4;82;0;0;30
+CALABRIA;Crotone;Totale;Incidente a veicolo isolato;0;0;10;102;2;2;26;0;0;6
+CALABRIA;Crotone;Totale;Incidente tra veicoli;10;0;64;742;10;2;70;0;0;24
+CALABRIA;Crotone;Totale;Incidente tra veicolo e pedone;0;0;0;66;0;0;4;0;0;2
+CALABRIA;Crotone;Totale;Totale;10;0;74;910;12;4;100;0;0;32
+CALABRIA;Reggio di Calabria;Altra strada;Incidente a veicolo isolato;0;0;8;114;2;0;24;2;0;0
+CALABRIA;Reggio di Calabria;Altra strada;Incidente tra veicoli;8;4;38;464;0;0;52;0;0;18
+CALABRIA;Reggio di Calabria;Altra strada;Incidente tra veicolo e pedone;2;0;0;16;0;0;0;0;0;0
+CALABRIA;Reggio di Calabria;Altra strada;Totale;10;4;46;594;2;0;76;2;0;18
+CALABRIA;Reggio di Calabria;Autostrada;Incidente a veicolo isolato;0;0;8;42;0;0;20;0;0;0
+CALABRIA;Reggio di Calabria;Autostrada;Incidente tra veicoli;36;0;44;272;0;0;16;0;0;0
+CALABRIA;Reggio di Calabria;Autostrada;Totale;36;0;52;314;0;0;36;0;0;0
+CALABRIA;Reggio di Calabria;Strada urbana;Incidente a veicolo isolato;0;2;2;78;6;0;24;4;0;20
+CALABRIA;Reggio di Calabria;Strada urbana;Incidente tra veicoli;62;10;58;1384;52;2;356;8;0;56
+CALABRIA;Reggio di Calabria;Strada urbana;Incidente tra veicolo e pedone;2;2;4;132;0;0;12;2;0;2
+CALABRIA;Reggio di Calabria;Strada urbana;Totale;64;14;64;1594;58;2;392;14;0;78
+CALABRIA;Reggio di Calabria;Totale;Incidente a veicolo isolato;0;2;18;234;8;0;68;6;0;20
+CALABRIA;Reggio di Calabria;Totale;Incidente tra veicoli;106;14;140;2120;52;2;424;8;0;74
+CALABRIA;Reggio di Calabria;Totale;Incidente tra veicolo e pedone;4;2;4;148;0;0;12;2;0;2
+CALABRIA;Reggio di Calabria;Totale;Totale;110;18;162;2502;60;2;504;16;0;96
+CALABRIA;Vibo Valentia;Altra strada;Incidente a veicolo isolato;0;0;0;34;0;0;2;0;0;0
+CALABRIA;Vibo Valentia;Altra strada;Incidente tra veicoli;4;0;8;212;0;0;32;0;0;0
+CALABRIA;Vibo Valentia;Altra strada;Incidente tra veicolo e pedone;0;0;0;4;0;0;0;0;0;0
+CALABRIA;Vibo Valentia;Altra strada;Totale;4;0;8;250;0;0;34;0;0;0
+CALABRIA;Vibo Valentia;Autostrada;Incidente a veicolo isolato;0;0;2;16;0;0;2;0;0;0
+CALABRIA;Vibo Valentia;Autostrada;Incidente tra veicoli;2;0;20;42;0;0;2;0;0;0
+CALABRIA;Vibo Valentia;Autostrada;Totale;2;0;22;58;0;0;4;0;0;0
+CALABRIA;Vibo Valentia;Strada urbana;Incidente a veicolo isolato;0;0;2;4;0;0;6;0;0;0
+CALABRIA;Vibo Valentia;Strada urbana;Incidente tra veicoli;4;0;12;318;6;0;52;2;0;16
+CALABRIA;Vibo Valentia;Strada urbana;Incidente tra veicolo e pedone;0;0;2;22;0;0;2;0;0;0
+CALABRIA;Vibo Valentia;Strada urbana;Totale;4;0;16;344;6;0;60;2;0;16
+CALABRIA;Vibo Valentia;Totale;Incidente a veicolo isolato;0;0;4;54;0;0;10;0;0;0
+CALABRIA;Vibo Valentia;Totale;Incidente tra veicoli;10;0;40;572;6;0;86;2;0;16
+CALABRIA;Vibo Valentia;Totale;Incidente tra veicolo e pedone;0;0;2;26;0;0;2;0;0;0
+CALABRIA;Vibo Valentia;Totale;Totale;10;0;46;652;6;0;98;2;0;16
+CAMPANIA;Avellino;Altra strada;Incidente a veicolo isolato;2;0;10;122;4;2;14;0;0;2
+CAMPANIA;Avellino;Altra strada;Incidente tra veicoli;16;2;60;630;4;0;66;2;0;12
+CAMPANIA;Avellino;Altra strada;Incidente tra veicolo e pedone;0;0;0;2;0;0;0;0;0;0
+CAMPANIA;Avellino;Altra strada;Totale;18;2;70;754;8;2;80;2;0;14
+CAMPANIA;Avellino;Autostrada;Incidente a veicolo isolato;0;0;0;32;0;0;0;0;0;0
+CAMPANIA;Avellino;Autostrada;Incidente tra veicoli;4;0;40;88;0;0;4;0;0;0
+CAMPANIA;Avellino;Autostrada;Incidente tra veicolo e pedone;0;0;2;2;0;0;0;0;0;0
+CAMPANIA;Avellino;Autostrada;Totale;4;0;42;122;0;0;4;0;0;0
+CAMPANIA;Avellino;Strada urbana;Incidente a veicolo isolato;0;0;0;72;6;0;4;4;0;2
+CAMPANIA;Avellino;Strada urbana;Incidente tra veicoli;14;10;42;756;22;0;130;2;0;30
+CAMPANIA;Avellino;Strada urbana;Incidente tra veicolo e pedone;0;0;4;80;0;0;2;0;0;0
+CAMPANIA;Avellino;Strada urbana;Totale;14;10;46;908;28;0;136;6;0;32
+CAMPANIA;Avellino;Totale;Incidente a veicolo isolato;2;0;10;226;10;2;18;4;0;4
+CAMPANIA;Avellino;Totale;Incidente tra veicoli;34;12;142;1474;26;0;200;4;0;42
+CAMPANIA;Avellino;Totale;Incidente tra veicolo e pedone;0;0;6;84;0;0;2;0;0;0
+CAMPANIA;Avellino;Totale;Totale;36;12;158;1784;36;2;220;8;0;46
+CAMPANIA;Benevento;Altra strada;Incidente a veicolo isolato;2;0;0;34;0;0;10;0;0;0
+CAMPANIA;Benevento;Altra strada;Incidente tra veicoli;16;2;32;262;6;0;18;0;0;0
+CAMPANIA;Benevento;Altra strada;Incidente tra veicolo e pedone;2;0;0;4;0;0;0;0;0;0
+CAMPANIA;Benevento;Altra strada;Totale;20;2;32;300;6;0;28;0;0;0
+CAMPANIA;Benevento;Autostrada;Incidente tra veicoli;0;0;0;14;0;0;0;0;0;0
+CAMPANIA;Benevento;Autostrada;Totale;0;0;0;14;0;0;0;0;0;0
+CAMPANIA;Benevento;Strada urbana;Incidente a veicolo isolato;0;0;0;32;2;0;2;0;0;2
+CAMPANIA;Benevento;Strada urbana;Incidente tra veicoli;6;2;22;414;20;0;60;2;0;18
+CAMPANIA;Benevento;Strada urbana;Incidente tra veicolo e pedone;0;0;4;42;0;0;0;0;0;0
+CAMPANIA;Benevento;Strada urbana;Totale;6;2;26;488;22;0;62;2;0;20
+CAMPANIA;Benevento;Totale;Incidente a veicolo isolato;2;0;0;66;2;0;12;0;0;2
+CAMPANIA;Benevento;Totale;Incidente tra veicoli;22;4;54;690;26;0;78;2;0;18
+CAMPANIA;Benevento;Totale;Incidente tra veicolo e pedone;2;0;4;46;0;0;0;0;0;0
+CAMPANIA;Benevento;Totale;Totale;26;4;58;802;28;0;90;2;0;20
+CAMPANIA;Caserta;Altra strada;Incidente a veicolo isolato;0;0;8;132;0;0;14;0;0;2
+CAMPANIA;Caserta;Altra strada;Incidente tra veicoli;34;8;112;976;12;0;104;0;0;20
+CAMPANIA;Caserta;Altra strada;Incidente tra veicolo e pedone;0;2;0;16;0;0;0;0;0;0
+CAMPANIA;Caserta;Altra strada;Totale;34;10;120;1124;12;0;118;0;0;22
+CAMPANIA;Caserta;Autostrada;Incidente a veicolo isolato;0;0;4;34;0;0;6;0;0;0
+CAMPANIA;Caserta;Autostrada;Incidente tra veicoli;30;4;76;216;0;0;6;0;0;0
+CAMPANIA;Caserta;Autostrada;Totale;30;4;80;250;0;0;12;0;0;0
+CAMPANIA;Caserta;Strada urbana;Incidente a veicolo isolato;2;0;2;120;10;0;38;0;0;10
+CAMPANIA;Caserta;Strada urbana;Incidente tra veicoli;40;4;84;2398;64;2;540;14;0;210
+CAMPANIA;Caserta;Strada urbana;Incidente tra veicolo e pedone;6;0;6;184;4;0;20;0;0;2
+CAMPANIA;Caserta;Strada urbana;Totale;48;4;92;2702;78;2;598;14;0;222
+CAMPANIA;Caserta;Totale;Incidente a veicolo isolato;2;0;14;286;10;0;58;0;0;12
+CAMPANIA;Caserta;Totale;Incidente tra veicoli;104;16;272;3590;76;2;650;14;0;230
+CAMPANIA;Caserta;Totale;Incidente tra veicolo e pedone;6;2;6;200;4;0;20;0;0;2
+CAMPANIA;Caserta;Totale;Totale;112;18;292;4076;90;2;728;14;0;244
+CAMPANIA;Napoli;Altra strada;Incidente a veicolo isolato;0;0;4;122;4;0;68;0;0;0
+CAMPANIA;Napoli;Altra strada;Incidente tra veicoli;82;10;98;1320;12;0;346;2;0;18
+CAMPANIA;Napoli;Altra strada;Incidente tra veicolo e pedone;0;0;0;14;0;0;2;0;0;0
+CAMPANIA;Napoli;Altra strada;Totale;82;10;102;1456;16;0;416;2;0;18
+CAMPANIA;Napoli;Autostrada;Incidente a veicolo isolato;0;0;16;126;0;0;82;2;0;0
+CAMPANIA;Napoli;Autostrada;Incidente tra veicoli;90;14;144;1010;0;0;200;0;0;0
+CAMPANIA;Napoli;Autostrada;Incidente tra veicolo e pedone;0;0;0;2;0;0;0;0;0;0
+CAMPANIA;Napoli;Autostrada;Totale;90;14;160;1138;0;0;282;2;0;0
+CAMPANIA;Napoli;Strada urbana;Incidente a veicolo isolato;2;10;8;594;66;2;824;10;0;76
+CAMPANIA;Napoli;Strada urbana;Incidente tra veicoli;264;56;308;8808;360;10;4468;38;4;332
+CAMPANIA;Napoli;Strada urbana;Incidente tra veicolo e pedone;86;14;28;832;44;0;352;6;0;10
+CAMPANIA;Napoli;Strada urbana;Totale;352;80;344;10234;470;12;5644;54;4;418
+CAMPANIA;Napoli;Totale;Incidente a veicolo isolato;2;10;28;842;70;2;974;12;0;76
+CAMPANIA;Napoli;Totale;Incidente tra veicoli;436;80;550;11138;372;10;5014;40;4;350
+CAMPANIA;Napoli;Totale;Incidente tra veicolo e pedone;86;14;28;848;44;0;354;6;0;10
+CAMPANIA;Napoli;Totale;Totale;524;104;606;12828;486;12;6342;58;4;436
+CAMPANIA;Salerno;Altra strada;Incidente a veicolo isolato;2;0;8;240;0;0;58;0;0;10
+CAMPANIA;Salerno;Altra strada;Incidente tra veicoli;48;16;156;1660;16;0;318;2;0;72
+CAMPANIA;Salerno;Altra strada;Incidente tra veicolo e pedone;0;0;0;26;0;0;4;0;0;2
+CAMPANIA;Salerno;Altra strada;Totale;50;16;164;1926;16;0;380;2;0;84
+CAMPANIA;Salerno;Autostrada;Incidente a veicolo isolato;0;0;20;106;0;0;30;0;0;0
+CAMPANIA;Salerno;Autostrada;Incidente tra veicoli;76;6;140;506;0;0;22;0;0;0
+CAMPANIA;Salerno;Autostrada;Totale;76;6;160;612;0;0;52;0;0;0
+CAMPANIA;Salerno;Strada urbana;Incidente a veicolo isolato;0;0;14;218;16;0;112;0;0;24
+CAMPANIA;Salerno;Strada urbana;Incidente tra veicoli;108;24;184;3832;110;6;1234;10;0;242
+CAMPANIA;Salerno;Strada urbana;Incidente tra veicolo e pedone;6;0;18;302;10;0;52;6;0;8
+CAMPANIA;Salerno;Strada urbana;Totale;114;24;216;4352;136;6;1398;16;0;274
+CAMPANIA;Salerno;Totale;Incidente a veicolo isolato;2;0;42;564;16;0;200;0;0;34
+CAMPANIA;Salerno;Totale;Incidente tra veicoli;232;46;480;5998;126;6;1574;12;0;314
+CAMPANIA;Salerno;Totale;Incidente tra veicolo e pedone;6;0;18;328;10;0;56;6;0;10
+CAMPANIA;Salerno;Totale;Totale;240;46;540;6890;152;6;1830;18;0;358
+EMILIA_ROMAGNA;Bologna;Altra strada;Incidente a veicolo isolato;4;2;30;292;6;0;90;8;0;20
+EMILIA_ROMAGNA;Bologna;Altra strada;Incidente tra veicoli;54;6;228;1710;24;0;236;4;0;104
+EMILIA_ROMAGNA;Bologna;Altra strada;Incidente tra veicolo e pedone;2;0;0;22;0;0;0;0;0;0
+EMILIA_ROMAGNA;Bologna;Altra strada;Totale;60;8;258;2024;30;0;326;12;0;124
+EMILIA_ROMAGNA;Bologna;Autostrada;Incidente a veicolo isolato;0;0;36;108;0;0;28;0;0;0
+EMILIA_ROMAGNA;Bologna;Autostrada;Incidente tra veicoli;112;0;352;988;0;0;60;0;0;0
+EMILIA_ROMAGNA;Bologna;Autostrada;Incidente tra veicolo e pedone;0;2;0;4;0;0;0;0;0;0
+EMILIA_ROMAGNA;Bologna;Autostrada;Totale;112;2;388;1100;0;0;88;0;0;0
+EMILIA_ROMAGNA;Bologna;Strada urbana;Incidente a veicolo isolato;0;26;10;326;66;0;316;2;0;168
+EMILIA_ROMAGNA;Bologna;Strada urbana;Incidente tra veicoli;180;82;474;4550;192;0;1290;8;0;1102
+EMILIA_ROMAGNA;Bologna;Strada urbana;Incidente tra veicolo e pedone;78;30;76;500;8;0;90;2;0;74
+EMILIA_ROMAGNA;Bologna;Strada urbana;Totale;258;138;560;5376;266;0;1696;12;0;1344
+EMILIA_ROMAGNA;Bologna;Totale;Incidente a veicolo isolato;4;28;76;726;72;0;434;10;0;188
+EMILIA_ROMAGNA;Bologna;Totale;Incidente tra veicoli;346;88;1054;7248;216;0;1586;12;0;1206
+EMILIA_ROMAGNA;Bologna;Totale;Incidente tra veicolo e pedone;80;32;76;526;8;0;90;2;0;74
+EMILIA_ROMAGNA;Bologna;Totale;Totale;430;148;1206;8500;296;0;2110;24;0;1468
+EMILIA_ROMAGNA;Ferrara;Altra strada;Incidente a veicolo isolato;0;0;18;160;2;0;24;0;0;0
+EMILIA_ROMAGNA;Ferrara;Altra strada;Incidente tra veicoli;24;0;90;638;8;0;60;2;0;52
+EMILIA_ROMAGNA;Ferrara;Altra strada;Incidente tra veicolo e pedone;2;0;0;18;0;0;0;0;0;0
+EMILIA_ROMAGNA;Ferrara;Altra strada;Totale;26;0;108;816;10;0;84;2;0;52
+EMILIA_ROMAGNA;Ferrara;Autostrada;Incidente a veicolo isolato;0;0;8;30;0;0;4;0;0;0
+EMILIA_ROMAGNA;Ferrara;Autostrada;Incidente tra veicoli;12;0;24;94;0;0;4;0;0;0
+EMILIA_ROMAGNA;Ferrara;Autostrada;Totale;12;0;32;124;0;0;8;0;0;0
+EMILIA_ROMAGNA;Ferrara;Strada urbana;Incidente a veicolo isolato;0;6;10;156;14;0;28;0;0;70
+EMILIA_ROMAGNA;Ferrara;Strada urbana;Incidente tra veicoli;48;4;142;1508;50;0;196;0;0;454
+EMILIA_ROMAGNA;Ferrara;Strada urbana;Incidente tra veicolo e pedone;10;2;14;98;2;0;4;0;0;6
+EMILIA_ROMAGNA;Ferrara;Strada urbana;Totale;58;12;166;1762;66;0;228;0;0;530
+EMILIA_ROMAGNA;Ferrara;Totale;Incidente a veicolo isolato;0;6;36;346;16;0;56;0;0;70
+EMILIA_ROMAGNA;Ferrara;Totale;Incidente tra veicoli;84;4;256;2240;58;0;260;2;0;506
+EMILIA_ROMAGNA;Ferrara;Totale;Incidente tra veicolo e pedone;12;2;14;116;2;0;4;0;0;6
+EMILIA_ROMAGNA;Ferrara;Totale;Totale;96;12;306;2702;76;0;320;2;0;582
+EMILIA_ROMAGNA;Modena;Altra strada;Incidente a veicolo isolato;0;0;22;300;6;0;48;0;0;18
+EMILIA_ROMAGNA;Modena;Altra strada;Incidente tra veicoli;94;4;212;1520;24;0;108;2;0;84
+EMILIA_ROMAGNA;Modena;Altra strada;Incidente tra veicolo e pedone;4;2;2;30;2;0;2;0;0;2
+EMILIA_ROMAGNA;Modena;Altra strada;Totale;98;6;236;1850;32;0;158;2;0;104
+EMILIA_ROMAGNA;Modena;Autostrada;Incidente a veicolo isolato;0;2;8;26;0;0;4;0;0;0
+EMILIA_ROMAGNA;Modena;Autostrada;Incidente tra veicoli;70;0;106;212;0;0;4;0;0;0
+EMILIA_ROMAGNA;Modena;Autostrada;Incidente tra veicolo e pedone;0;0;0;2;0;0;0;0;0;0
+EMILIA_ROMAGNA;Modena;Autostrada;Totale;70;2;114;240;0;0;8;0;0;0
+EMILIA_ROMAGNA;Modena;Strada urbana;Incidente a veicolo isolato;4;2;20;346;34;0;68;0;0;100
+EMILIA_ROMAGNA;Modena;Strada urbana;Incidente tra veicoli;114;28;348;4188;90;0;478;8;0;848
+EMILIA_ROMAGNA;Modena;Strada urbana;Incidente tra veicolo e pedone;40;12;28;326;4;0;8;0;0;18
+EMILIA_ROMAGNA;Modena;Strada urbana;Totale;158;42;396;4860;128;0;554;8;0;966
+EMILIA_ROMAGNA;Modena;Totale;Incidente a veicolo isolato;4;4;50;672;40;0;120;0;0;118
+EMILIA_ROMAGNA;Modena;Totale;Incidente tra veicoli;278;32;666;5920;114;0;590;10;0;932
+EMILIA_ROMAGNA;Modena;Totale;Incidente tra veicolo e pedone;44;14;30;358;6;0;10;0;0;20
+EMILIA_ROMAGNA;Modena;Totale;Totale;326;50;746;6950;160;0;720;10;0;1070
+EMILIA_ROMAGNA;Parma;Altra strada;Incidente a veicolo isolato;0;0;16;184;6;0;60;0;0;8
+EMILIA_ROMAGNA;Parma;Altra strada;Incidente tra veicoli;46;4;126;874;14;0;68;2;0;50
+EMILIA_ROMAGNA;Parma;Altra strada;Incidente tra veicolo e pedone;0;0;6;26;0;0;0;0;0;0
+EMILIA_ROMAGNA;Parma;Altra strada;Totale;46;4;148;1084;20;0;128;2;0;58
+EMILIA_ROMAGNA;Parma;Autostrada;Incidente a veicolo isolato;0;0;14;40;0;0;14;0;0;0
+EMILIA_ROMAGNA;Parma;Autostrada;Incidente tra veicoli;74;0;74;176;0;0;6;0;0;0
+EMILIA_ROMAGNA;Parma;Autostrada;Incidente tra veicolo e pedone;0;0;2;2;0;0;0;0;0;0
+EMILIA_ROMAGNA;Parma;Autostrada;Totale;74;0;90;218;0;0;20;0;0;0
+EMILIA_ROMAGNA;Parma;Strada urbana;Incidente a veicolo isolato;0;2;4;142;14;0;36;0;0;36
+EMILIA_ROMAGNA;Parma;Strada urbana;Incidente tra veicoli;46;16;138;1564;76;0;244;8;0;482
+EMILIA_ROMAGNA;Parma;Strada urbana;Incidente tra veicolo e pedone;12;12;12;200;8;0;18;0;0;18
+EMILIA_ROMAGNA;Parma;Strada urbana;Totale;58;30;154;1906;98;0;298;8;0;536
+EMILIA_ROMAGNA;Parma;Totale;Incidente a veicolo isolato;0;2;34;366;20;0;110;0;0;44
+EMILIA_ROMAGNA;Parma;Totale;Incidente tra veicoli;166;20;338;2614;90;0;318;10;0;532
+EMILIA_ROMAGNA;Parma;Totale;Incidente tra veicolo e pedone;12;12;20;228;8;0;18;0;0;18
+EMILIA_ROMAGNA;Parma;Totale;Totale;178;34;392;3208;118;0;446;10;0;594
+EMILIA_ROMAGNA;Piacenza;Altra strada;Incidente a veicolo isolato;4;0;20;148;0;0;36;0;0;8
+EMILIA_ROMAGNA;Piacenza;Altra strada;Incidente tra veicoli;26;4;64;610;8;0;88;0;0;52
+EMILIA_ROMAGNA;Piacenza;Altra strada;Incidente tra veicolo e pedone;2;0;2;18;0;0;0;0;0;0
+EMILIA_ROMAGNA;Piacenza;Altra strada;Totale;32;4;86;776;8;0;124;0;0;60
+EMILIA_ROMAGNA;Piacenza;Autostrada;Incidente a veicolo isolato;0;0;8;34;0;0;4;0;0;0
+EMILIA_ROMAGNA;Piacenza;Autostrada;Incidente tra veicoli;68;0;140;212;0;0;10;0;0;0
+EMILIA_ROMAGNA;Piacenza;Autostrada;Incidente tra veicolo e pedone;0;0;0;2;0;0;0;0;0;0
+EMILIA_ROMAGNA;Piacenza;Autostrada;Totale;68;0;148;248;0;0;14;0;0;0
+EMILIA_ROMAGNA;Piacenza;Strada urbana;Incidente a veicolo isolato;0;0;6;96;4;0;20;0;0;26
+EMILIA_ROMAGNA;Piacenza;Strada urbana;Incidente tra veicoli;28;12;122;1446;30;0;146;2;0;404
+EMILIA_ROMAGNA;Piacenza;Strada urbana;Incidente tra veicolo e pedone;8;2;14;140;0;0;6;0;0;4
+EMILIA_ROMAGNA;Piacenza;Strada urbana;Totale;36;14;142;1682;34;0;172;2;0;434
+EMILIA_ROMAGNA;Piacenza;Totale;Incidente a veicolo isolato;4;0;34;278;4;0;60;0;0;34
+EMILIA_ROMAGNA;Piacenza;Totale;Incidente tra veicoli;122;16;326;2268;38;0;244;2;0;456
+EMILIA_ROMAGNA;Piacenza;Totale;Incidente tra veicolo e pedone;10;2;16;160;0;0;6;0;0;4
+EMILIA_ROMAGNA;Piacenza;Totale;Totale;136;18;376;2706;42;0;310;2;0;494
+EMILIA_ROMAGNA;Ravenna;Altra strada;Incidente a veicolo isolato;0;0;22;226;6;0;56;0;0;30
+EMILIA_ROMAGNA;Ravenna;Altra strada;Incidente tra veicoli;46;2;200;1090;20;0;148;2;0;94
+EMILIA_ROMAGNA;Ravenna;Altra strada;Incidente tra veicolo e pedone;2;0;8;12;0;0;0;0;0;0
+EMILIA_ROMAGNA;Ravenna;Altra strada;Totale;48;2;230;1328;26;0;204;2;0;124
+EMILIA_ROMAGNA;Ravenna;Autostrada;Incidente a veicolo isolato;0;0;8;40;0;0;6;0;0;0
+EMILIA_ROMAGNA;Ravenna;Autostrada;Incidente tra veicoli;22;0;40;150;0;0;10;0;0;0
+EMILIA_ROMAGNA;Ravenna;Autostrada;Incidente tra veicolo e pedone;0;0;0;2;0;0;0;0;0;0
+EMILIA_ROMAGNA;Ravenna;Autostrada;Totale;22;0;48;192;0;0;16;0;0;0
+EMILIA_ROMAGNA;Ravenna;Strada urbana;Incidente a veicolo isolato;0;2;8;140;18;0;94;4;0;136
+EMILIA_ROMAGNA;Ravenna;Strada urbana;Incidente tra veicoli;48;22;162;2084;76;0;308;0;0;614
+EMILIA_ROMAGNA;Ravenna;Strada urbana;Incidente tra veicolo e pedone;8;6;10;214;2;0;10;0;0;6
+EMILIA_ROMAGNA;Ravenna;Strada urbana;Totale;56;30;180;2438;96;0;412;4;0;756
+EMILIA_ROMAGNA;Ravenna;Totale;Incidente a veicolo isolato;0;2;38;406;24;0;156;4;0;166
+EMILIA_ROMAGNA;Ravenna;Totale;Incidente tra veicoli;116;24;402;3324;96;0;466;2;0;708
+EMILIA_ROMAGNA;Ravenna;Totale;Incidente tra veicolo e pedone;10;6;18;228;2;0;10;0;0;6
+EMILIA_ROMAGNA;Ravenna;Totale;Totale;126;32;458;3958;122;0;632;6;0;880
+EMILIA_ROMAGNA;Rimini;Altra strada;Incidente a veicolo isolato;0;0;2;66;20;0;30;0;0;18
+EMILIA_ROMAGNA;Rimini;Altra strada;Incidente tra veicoli;24;2;68;530;22;0;128;2;0;80
+EMILIA_ROMAGNA;Rimini;Altra strada;Incidente tra veicolo e pedone;0;0;2;14;0;0;4;0;0;0
+EMILIA_ROMAGNA;Rimini;Altra strada;Totale;24;2;72;610;42;0;162;2;0;98
+EMILIA_ROMAGNA;Rimini;Autostrada;Incidente a veicolo isolato;0;0;2;6;0;0;0;0;0;0
+EMILIA_ROMAGNA;Rimini;Autostrada;Incidente tra veicoli;20;0;26;90;0;0;0;0;0;0
+EMILIA_ROMAGNA;Rimini;Autostrada;Incidente tra veicolo e pedone;0;0;0;2;0;0;0;0;0;0
+EMILIA_ROMAGNA;Rimini;Autostrada;Totale;20;0;28;98;0;0;0;0;0;0
+EMILIA_ROMAGNA;Rimini;Strada urbana;Incidente a veicolo isolato;0;2;12;152;52;0;116;0;0;78
+EMILIA_ROMAGNA;Rimini;Strada urbana;Incidente tra veicoli;66;20;158;1982;262;0;730;4;0;586
+EMILIA_ROMAGNA;Rimini;Strada urbana;Incidente tra veicolo e pedone;30;2;20;216;12;0;26;0;0;20
+EMILIA_ROMAGNA;Rimini;Strada urbana;Totale;96;24;190;2350;326;0;872;4;0;684
+EMILIA_ROMAGNA;Rimini;Totale;Incidente a veicolo isolato;0;2;16;224;72;0;146;0;0;96
+EMILIA_ROMAGNA;Rimini;Totale;Incidente tra veicoli;110;22;252;2602;284;0;858;6;0;666
+EMILIA_ROMAGNA;Rimini;Totale;Incidente tra veicolo e pedone;30;2;22;232;12;0;30;0;0;20
+EMILIA_ROMAGNA;Rimini;Totale;Totale;140;26;290;3058;368;0;1034;6;0;782
+FRIULI_VG;Gorizia;Altra strada;Incidente a veicolo isolato;0;0;8;28;0;0;12;0;0;2
+FRIULI_VG;Gorizia;Altra strada;Incidente tra veicoli;0;0;12;160;0;0;38;0;0;14
+FRIULI_VG;Gorizia;Altra strada;Incidente tra veicolo e pedone;0;0;2;4;0;0;0;0;0;0
+FRIULI_VG;Gorizia;Altra strada;Totale;0;0;22;192;0;0;50;0;0;16
+FRIULI_VG;Gorizia;Autostrada;Incidente a veicolo isolato;0;0;6;4;0;0;0;0;0;0
+FRIULI_VG;Gorizia;Autostrada;Incidente tra veicoli;0;0;16;60;0;0;2;0;0;0
+FRIULI_VG;Gorizia;Autostrada;Totale;0;0;22;64;0;0;2;0;0;0
+FRIULI_VG;Gorizia;Strada urbana;Incidente a veicolo isolato;0;0;4;36;12;0;16;0;0;22
+FRIULI_VG;Gorizia;Strada urbana;Incidente tra veicoli;24;10;68;640;20;0;128;2;0;106
+FRIULI_VG;Gorizia;Strada urbana;Incidente tra veicolo e pedone;4;0;4;40;2;0;4;0;0;2
+FRIULI_VG;Gorizia;Strada urbana;Totale;28;10;76;716;34;0;148;2;0;130
+FRIULI_VG;Gorizia;Totale;Incidente a veicolo isolato;0;0;18;68;12;0;28;0;0;24
+FRIULI_VG;Gorizia;Totale;Incidente tra veicoli;24;10;96;860;20;0;168;2;0;120
+FRIULI_VG;Gorizia;Totale;Incidente tra veicolo e pedone;4;0;6;44;2;0;4;0;0;2
+FRIULI_VG;Gorizia;Totale;Totale;28;10;120;972;34;0;200;2;0;146
+FRIULI_VG;Pordenone;Altra strada;Incidente a veicolo isolato;0;0;10;122;2;0;20;0;0;8
+FRIULI_VG;Pordenone;Altra strada;Incidente tra veicoli;12;0;40;422;12;0;44;0;0;22
+FRIULI_VG;Pordenone;Altra strada;Incidente tra veicolo e pedone;0;0;0;6;0;0;0;0;0;0
+FRIULI_VG;Pordenone;Altra strada;Totale;12;0;50;550;14;0;64;0;0;30
+FRIULI_VG;Pordenone;Autostrada;Incidente a veicolo isolato;0;0;0;16;0;0;0;0;0;0
+FRIULI_VG;Pordenone;Autostrada;Incidente tra veicoli;0;0;12;70;0;0;0;0;0;0
+FRIULI_VG;Pordenone;Autostrada;Totale;0;0;12;86;0;0;0;0;0;0
+FRIULI_VG;Pordenone;Strada urbana;Incidente a veicolo isolato;0;0;10;128;12;2;30;0;0;8
+FRIULI_VG;Pordenone;Strada urbana;Incidente tra veicoli;26;2;88;1008;48;4;154;2;0;116
+FRIULI_VG;Pordenone;Strada urbana;Incidente tra veicolo e pedone;2;2;4;74;0;0;4;0;0;0
+FRIULI_VG;Pordenone;Strada urbana;Totale;28;4;102;1210;60;6;188;2;0;124
+FRIULI_VG;Pordenone;Totale;Incidente a veicolo isolato;0;0;20;266;14;2;50;0;0;16
+FRIULI_VG;Pordenone;Totale;Incidente tra veicoli;38;2;140;1500;60;4;198;2;0;138
+FRIULI_VG;Pordenone;Totale;Incidente tra veicolo e pedone;2;2;4;80;0;0;4;0;0;0
+FRIULI_VG;Pordenone;Totale;Totale;40;4;164;1846;74;6;252;2;0;154
+FRIULI_VG;Trieste;Altra strada;Incidente a veicolo isolato;0;0;2;14;0;0;14;0;0;2
+FRIULI_VG;Trieste;Altra strada;Incidente tra veicoli;0;2;8;70;0;0;26;0;0;12
+FRIULI_VG;Trieste;Altra strada;Incidente tra veicolo e pedone;0;0;0;12;0;0;0;0;0;0
+FRIULI_VG;Trieste;Altra strada;Totale;0;2;10;96;0;0;40;0;0;14
+FRIULI_VG;Trieste;Autostrada;Incidente a veicolo isolato;0;0;6;24;0;0;0;0;0;0
+FRIULI_VG;Trieste;Autostrada;Incidente tra veicoli;0;0;10;58;0;0;4;0;0;0
+FRIULI_VG;Trieste;Autostrada;Totale;0;0;16;82;0;0;4;0;0;0
+FRIULI_VG;Trieste;Strada urbana;Incidente a veicolo isolato;0;20;4;110;32;0;100;2;0;16
+FRIULI_VG;Trieste;Strada urbana;Incidente tra veicoli;54;24;134;1380;66;0;460;6;6;156
+FRIULI_VG;Trieste;Strada urbana;Incidente tra veicolo e pedone;22;6;16;192;2;0;30;0;0;4
+FRIULI_VG;Trieste;Strada urbana;Totale;76;50;154;1682;100;0;590;8;6;176
+FRIULI_VG;Trieste;Totale;Incidente a veicolo isolato;0;20;12;148;32;0;114;2;0;18
+FRIULI_VG;Trieste;Totale;Incidente tra veicoli;54;26;152;1508;66;0;490;6;6;168
+FRIULI_VG;Trieste;Totale;Incidente tra veicolo e pedone;22;6;16;204;2;0;30;0;0;4
+FRIULI_VG;Trieste;Totale;Totale;76;52;180;1860;100;0;634;8;6;190
+FRIULI_VG;Udine;Altra strada;Incidente a veicolo isolato;4;0;18;154;8;0;34;0;0;2
+FRIULI_VG;Udine;Altra strada;Incidente tra veicoli;24;4;64;736;8;0;74;2;0;46
+FRIULI_VG;Udine;Altra strada;Incidente tra veicolo e pedone;0;0;0;14;0;0;0;0;0;0
+FRIULI_VG;Udine;Altra strada;Totale;28;4;82;904;16;0;108;2;0;48
+FRIULI_VG;Udine;Autostrada;Incidente a veicolo isolato;0;0;4;42;0;0;0;0;0;0
+FRIULI_VG;Udine;Autostrada;Incidente tra veicoli;18;2;56;128;0;0;2;0;0;0
+FRIULI_VG;Udine;Autostrada;Incidente tra veicolo e pedone;0;0;0;2;0;0;0;0;0;0
+FRIULI_VG;Udine;Autostrada;Totale;18;2;60;172;0;0;2;0;0;0
+FRIULI_VG;Udine;Strada urbana;Incidente a veicolo isolato;2;0;12;210;18;0;60;0;0;28
+FRIULI_VG;Udine;Strada urbana;Incidente tra veicoli;44;8;104;1644;80;2;230;0;0;196
+FRIULI_VG;Udine;Strada urbana;Incidente tra veicolo e pedone;4;4;10;144;4;0;8;0;0;4
+FRIULI_VG;Udine;Strada urbana;Totale;50;12;126;1998;102;2;298;0;0;228
+FRIULI_VG;Udine;Totale;Incidente a veicolo isolato;6;0;34;406;26;0;94;0;0;30
+FRIULI_VG;Udine;Totale;Incidente tra veicoli;86;14;224;2508;88;2;306;2;0;242
+FRIULI_VG;Udine;Totale;Incidente tra veicolo e pedone;4;4;10;160;4;0;8;0;0;4
+FRIULI_VG;Udine;Totale;Totale;96;18;268;3074;118;2;408;2;0;276
+LAZIO;Frosinone;Altra strada;Incidente a veicolo isolato;0;4;12;212;0;0;42;2;0;4
+LAZIO;Frosinone;Altra strada;Incidente tra veicoli;20;12;80;1104;16;0;98;2;0;22
+LAZIO;Frosinone;Altra strada;Incidente tra veicolo e pedone;0;0;2;26;0;0;2;2;0;0
+LAZIO;Frosinone;Altra strada;Totale;20;16;94;1342;16;0;142;6;0;26
+LAZIO;Frosinone;Autostrada;Incidente a veicolo isolato;0;2;16;44;0;0;10;0;0;0
+LAZIO;Frosinone;Autostrada;Incidente tra veicoli;48;4;114;314;0;0;2;0;0;0
+LAZIO;Frosinone;Autostrada;Incidente tra veicolo e pedone;0;0;2;0;0;0;0;0;0;0
+LAZIO;Frosinone;Autostrada;Totale;48;6;132;358;0;0;12;0;0;0
+LAZIO;Frosinone;Strada urbana;Incidente a veicolo isolato;0;2;4;140;6;0;18;2;0;14
+LAZIO;Frosinone;Strada urbana;Incidente tra veicoli;28;16;58;1442;40;2;116;2;0;64
+LAZIO;Frosinone;Strada urbana;Incidente tra veicolo e pedone;0;0;4;152;2;0;2;2;0;0
+LAZIO;Frosinone;Strada urbana;Totale;28;18;66;1734;48;2;136;6;0;78
+LAZIO;Frosinone;Totale;Incidente a veicolo isolato;0;8;32;396;6;0;70;4;0;18
+LAZIO;Frosinone;Totale;Incidente tra veicoli;96;32;252;2860;56;2;216;4;0;86
+LAZIO;Frosinone;Totale;Incidente tra veicolo e pedone;0;0;8;178;2;0;4;4;0;0
+LAZIO;Frosinone;Totale;Totale;96;40;292;3434;64;2;290;12;0;104
+LAZIO;Latina;Altra strada;Incidente a veicolo isolato;0;0;20;252;8;0;58;4;0;2
+LAZIO;Latina;Altra strada;Incidente tra veicoli;62;10;236;1768;18;0;182;2;0;102
+LAZIO;Latina;Altra strada;Incidente tra veicolo e pedone;0;0;4;24;0;0;0;0;0;0
+LAZIO;Latina;Altra strada;Totale;62;10;260;2044;26;0;240;6;0;104
+LAZIO;Latina;Strada urbana;Incidente a veicolo isolato;2;0;10;156;12;0;76;2;0;22
+LAZIO;Latina;Strada urbana;Incidente tra veicoli;68;14;154;2484;124;4;528;18;0;256
+LAZIO;Latina;Strada urbana;Incidente tra veicolo e pedone;4;0;16;240;6;0;14;2;0;2
+LAZIO;Latina;Strada urbana;Totale;74;14;180;2880;142;4;618;22;0;280
+LAZIO;Latina;Totale;Incidente a veicolo isolato;2;0;30;408;20;0;134;6;0;24
+LAZIO;Latina;Totale;Incidente tra veicoli;130;24;390;4252;142;4;710;20;0;358
+LAZIO;Latina;Totale;Incidente tra veicolo e pedone;4;0;20;264;6;0;14;2;0;2
+LAZIO;Latina;Totale;Totale;136;24;440;4924;168;4;858;28;0;384
+LAZIO;Rieti;Altra strada;Incidente a veicolo isolato;2;0;4;100;2;0;34;0;0;2
+LAZIO;Rieti;Altra strada;Incidente tra veicoli;2;0;34;256;2;0;30;0;0;8
+LAZIO;Rieti;Altra strada;Incidente tra veicolo e pedone;0;2;0;10;0;0;0;0;0;0
+LAZIO;Rieti;Altra strada;Totale;4;2;38;366;4;0;64;0;0;10
+LAZIO;Rieti;Autostrada;Incidente a veicolo isolato;0;0;2;12;0;0;0;0;0;0
+LAZIO;Rieti;Autostrada;Incidente tra veicoli;4;0;12;36;0;0;0;0;0;0
+LAZIO;Rieti;Autostrada;Totale;4;0;14;48;0;0;0;0;0;0
+LAZIO;Rieti;Strada urbana;Incidente a veicolo isolato;0;0;2;36;4;0;8;0;0;4
+LAZIO;Rieti;Strada urbana;Incidente tra veicoli;22;6;28;424;8;0;30;0;0;26
+LAZIO;Rieti;Strada urbana;Incidente tra veicolo e pedone;0;0;2;40;0;0;0;0;0;0
+LAZIO;Rieti;Strada urbana;Totale;22;6;32;500;12;0;38;0;0;30
+LAZIO;Rieti;Totale;Incidente a veicolo isolato;2;0;8;148;6;0;42;0;0;6
+LAZIO;Rieti;Totale;Incidente tra veicoli;28;6;74;716;10;0;60;0;0;34
+LAZIO;Rieti;Totale;Incidente tra veicolo e pedone;0;2;2;50;0;0;0;0;0;0
+LAZIO;Rieti;Totale;Totale;30;8;84;914;16;0;102;0;0;40
+LAZIO;Roma;Altra strada;Incidente a veicolo isolato;2;4;30;440;8;0;184;8;0;14
+LAZIO;Roma;Altra strada;Incidente tra veicoli;208;30;434;4662;44;0;700;14;0;112
+LAZIO;Roma;Altra strada;Incidente tra veicolo e pedone;8;4;10;118;0;0;14;0;0;6
+LAZIO;Roma;Altra strada;Totale;218;38;474;5220;52;0;898;22;0;132
+LAZIO;Roma;Autostrada;Incidente a veicolo isolato;0;2;30;286;0;0;146;0;0;0
+LAZIO;Roma;Autostrada;Incidente tra veicoli;288;10;548;3424;2;0;326;0;0;0
+LAZIO;Roma;Autostrada;Incidente tra veicolo e pedone;0;0;0;4;0;0;0;0;0;0
+LAZIO;Roma;Autostrada;Totale;288;12;578;3714;2;0;472;0;0;0
+LAZIO;Roma;Strada urbana;Incidente a veicolo isolato;0;50;24;1156;196;0;1624;26;0;298
+LAZIO;Roma;Strada urbana;Incidente tra veicoli;1272;372;1668;27926;688;2;10674;198;6;1710
+LAZIO;Roma;Strada urbana;Incidente tra veicolo e pedone;142;74;262;3342;44;0;694;34;8;114
+LAZIO;Roma;Strada urbana;Totale;1414;496;1954;32424;928;2;12992;258;14;2122
+LAZIO;Roma;Totale;Incidente a veicolo isolato;2;56;84;1882;204;0;1954;34;0;312
+LAZIO;Roma;Totale;Incidente tra veicoli;1768;412;2650;36012;734;2;11700;212;6;1822
+LAZIO;Roma;Totale;Incidente tra veicolo e pedone;150;78;272;3464;44;0;708;34;8;120
+LAZIO;Roma;Totale;Totale;1920;546;3006;41358;982;2;14362;280;14;2254
+LAZIO;Viterbo;Altra strada;Incidente a veicolo isolato;0;0;14;176;8;0;26;2;0;0
+LAZIO;Viterbo;Altra strada;Incidente tra veicoli;30;14;106;736;16;0;76;2;0;18
+LAZIO;Viterbo;Altra strada;Incidente tra veicolo e pedone;0;0;4;6;2;0;0;0;0;0
+LAZIO;Viterbo;Altra strada;Totale;30;14;124;918;26;0;102;4;0;18
+LAZIO;Viterbo;Autostrada;Incidente a veicolo isolato;0;0;4;8;0;0;0;0;0;0
+LAZIO;Viterbo;Autostrada;Incidente tra veicoli;8;0;18;30;0;0;2;0;0;0
+LAZIO;Viterbo;Autostrada;Totale;8;0;22;38;0;0;2;0;0;0
+LAZIO;Viterbo;Strada urbana;Incidente a veicolo isolato;0;0;2;72;12;0;4;2;0;6
+LAZIO;Viterbo;Strada urbana;Incidente tra veicoli;20;12;44;928;88;0;98;12;0;26
+LAZIO;Viterbo;Strada urbana;Incidente tra veicolo e pedone;2;0;6;140;8;0;0;0;0;2
+LAZIO;Viterbo;Strada urbana;Totale;22;12;52;1140;108;0;102;14;0;34
+LAZIO;Viterbo;Totale;Incidente a veicolo isolato;0;0;20;256;20;0;30;4;0;6
+LAZIO;Viterbo;Totale;Incidente tra veicoli;58;26;168;1694;104;0;176;14;0;44
+LAZIO;Viterbo;Totale;Incidente tra veicolo e pedone;2;0;10;146;10;0;0;0;0;2
+LAZIO;Viterbo;Totale;Totale;60;26;198;2096;134;0;206;18;0;52
+LIGURIA;Genova;Altra strada;Incidente a veicolo isolato;4;0;2;36;2;0;106;0;0;4
+LIGURIA;Genova;Altra strada;Incidente tra veicoli;6;0;32;272;16;0;138;0;0;18
+LIGURIA;Genova;Altra strada;Incidente tra veicolo e pedone;0;0;6;22;0;0;4;0;0;0
+LIGURIA;Genova;Altra strada;Totale;10;0;40;330;18;0;248;0;0;22
+LIGURIA;Genova;Autostrada;Incidente a veicolo isolato;0;0;30;168;0;0;86;0;0;0
+LIGURIA;Genova;Autostrada;Incidente tra veicoli;112;2;200;704;0;0;46;0;0;0
+LIGURIA;Genova;Autostrada;Totale;112;2;230;872;0;0;132;0;0;0
+LIGURIA;Genova;Strada urbana;Incidente a veicolo isolato;0;556;16;160;78;0;1190;0;0;126
+LIGURIA;Genova;Strada urbana;Incidente tra veicoli;210;182;684;4940;188;4;4194;8;0;230
+LIGURIA;Genova;Strada urbana;Incidente tra veicolo e pedone;32;156;96;744;16;0;374;0;0;12
+LIGURIA;Genova;Strada urbana;Totale;242;894;796;5844;282;4;5758;8;0;368
+LIGURIA;Genova;Totale;Incidente a veicolo isolato;4;556;48;364;80;0;1382;0;0;130
+LIGURIA;Genova;Totale;Incidente tra veicoli;328;184;916;5916;204;4;4378;8;0;248
+LIGURIA;Genova;Totale;Incidente tra veicolo e pedone;32;156;102;766;16;0;378;0;0;12
+LIGURIA;Genova;Totale;Totale;364;896;1066;7046;300;4;6138;8;0;390
+LIGURIA;Imperia;Altra strada;Incidente a veicolo isolato;0;0;6;56;6;0;26;0;0;4
+LIGURIA;Imperia;Altra strada;Incidente tra veicoli;10;2;32;234;10;0;114;0;0;26
+LIGURIA;Imperia;Altra strada;Incidente tra veicolo e pedone;0;0;2;6;0;0;4;0;0;2
+LIGURIA;Imperia;Altra strada;Totale;10;2;40;296;16;0;144;0;0;32
+LIGURIA;Imperia;Autostrada;Incidente a veicolo isolato;0;0;6;14;0;0;6;0;0;0
+LIGURIA;Imperia;Autostrada;Incidente tra veicoli;38;0;74;120;0;0;8;0;0;0
+LIGURIA;Imperia;Autostrada;Totale;38;0;80;134;0;0;14;0;0;0
+LIGURIA;Imperia;Strada urbana;Incidente a veicolo isolato;0;2;2;52;34;0;82;0;0;4
+LIGURIA;Imperia;Strada urbana;Incidente tra veicoli;34;6;140;1092;118;0;816;4;0;98
+LIGURIA;Imperia;Strada urbana;Incidente tra veicolo e pedone;4;0;18;176;16;0;100;0;0;6
+LIGURIA;Imperia;Strada urbana;Totale;38;8;160;1320;168;0;998;4;0;108
+LIGURIA;Imperia;Totale;Incidente a veicolo isolato;0;2;14;122;40;0;114;0;0;8
+LIGURIA;Imperia;Totale;Incidente tra veicoli;82;8;246;1446;128;0;938;4;0;124
+LIGURIA;Imperia;Totale;Incidente tra veicolo e pedone;4;0;20;182;16;0;104;0;0;8
+LIGURIA;Imperia;Totale;Totale;86;10;280;1750;184;0;1156;4;0;140
+LIGURIA;La Spezia;Altra strada;Incidente a veicolo isolato;0;0;0;20;2;0;18;0;0;2
+LIGURIA;La Spezia;Altra strada;Incidente tra veicoli;8;0;22;190;6;0;64;0;0;16
+LIGURIA;La Spezia;Altra strada;Incidente tra veicolo e pedone;0;0;2;22;0;0;2;0;0;2
+LIGURIA;La Spezia;Altra strada;Totale;8;0;24;232;8;0;84;0;0;20
+LIGURIA;La Spezia;Autostrada;Incidente a veicolo isolato;0;0;6;28;0;0;8;0;0;0
+LIGURIA;La Spezia;Autostrada;Incidente tra veicoli;6;0;58;150;0;0;14;0;0;0
+LIGURIA;La Spezia;Autostrada;Totale;6;0;64;178;0;0;22;0;0;0
+LIGURIA;La Spezia;Strada urbana;Incidente a veicolo isolato;0;6;2;28;10;0;46;0;0;18
+LIGURIA;La Spezia;Strada urbana;Incidente tra veicoli;24;16;96;1010;52;0;540;0;0;124
+LIGURIA;La Spezia;Strada urbana;Incidente tra veicolo e pedone;2;2;14;128;2;0;46;0;0;8
+LIGURIA;La Spezia;Strada urbana;Totale;26;24;112;1166;64;0;632;0;0;150
+LIGURIA;La Spezia;Totale;Incidente a veicolo isolato;0;6;8;76;12;0;72;0;0;20
+LIGURIA;La Spezia;Totale;Incidente tra veicoli;38;16;176;1350;58;0;618;0;0;140
+LIGURIA;La Spezia;Totale;Incidente tra veicolo e pedone;2;2;16;150;2;0;48;0;0;10
+LIGURIA;La Spezia;Totale;Totale;40;24;200;1576;72;0;738;0;0;170
+LIGURIA;Savona;Altra strada;Incidente a veicolo isolato;2;0;14;76;16;0;76;0;0;10
+LIGURIA;Savona;Altra strada;Incidente tra veicoli;16;2;78;420;12;0;182;2;0;26
+LIGURIA;Savona;Altra strada;Incidente tra veicolo e pedone;0;0;0;12;0;0;4;0;0;4
+LIGURIA;Savona;Altra strada;Totale;18;2;92;508;28;0;262;2;0;40
+LIGURIA;Savona;Autostrada;Incidente a veicolo isolato;0;0;6;64;0;0;24;0;0;0
+LIGURIA;Savona;Autostrada;Incidente tra veicoli;44;4;136;366;0;0;12;0;0;0
+LIGURIA;Savona;Autostrada;Incidente tra veicolo e pedone;0;0;0;2;0;0;0;0;0;0
+LIGURIA;Savona;Autostrada;Totale;44;4;142;432;0;0;36;0;0;0
+LIGURIA;Savona;Strada urbana;Incidente a veicolo isolato;0;0;6;74;28;0;142;0;0;28
+LIGURIA;Savona;Strada urbana;Incidente tra veicoli;56;8;176;1306;124;0;790;4;0;150
+LIGURIA;Savona;Strada urbana;Incidente tra veicolo e pedone;4;2;30;202;6;0;58;0;0;6
+LIGURIA;Savona;Strada urbana;Totale;60;10;212;1582;158;0;990;4;0;184
+LIGURIA;Savona;Totale;Incidente a veicolo isolato;2;0;26;214;44;0;242;0;0;38
+LIGURIA;Savona;Totale;Incidente tra veicoli;116;14;390;2092;136;0;984;6;0;176
+LIGURIA;Savona;Totale;Incidente tra veicolo e pedone;4;2;30;216;6;0;62;0;0;10
+LIGURIA;Savona;Totale;Totale;122;16;446;2522;186;0;1288;6;0;224
+LOMBARDIA;Bergamo;Altra strada;Incidente a veicolo isolato;0;0;16;226;6;0;64;0;0;14
+LOMBARDIA;Bergamo;Altra strada;Incidente tra veicoli;78;4;204;1808;36;0;260;2;0;120
+LOMBARDIA;Bergamo;Altra strada;Incidente tra veicolo e pedone;0;0;2;46;0;0;4;0;0;0
+LOMBARDIA;Bergamo;Altra strada;Totale;78;4;222;2080;42;0;328;2;0;134
+LOMBARDIA;Bergamo;Autostrada;Incidente a veicolo isolato;0;0;6;38;0;0;10;0;0;0
+LOMBARDIA;Bergamo;Autostrada;Incidente tra veicoli;34;4;100;206;0;0;2;0;0;0
+LOMBARDIA;Bergamo;Autostrada;Incidente tra veicolo e pedone;0;0;2;0;0;0;0;0;0;0
+LOMBARDIA;Bergamo;Autostrada;Totale;34;4;108;244;0;0;12;0;0;0
+LOMBARDIA;Bergamo;Strada urbana;Incidente a veicolo isolato;2;18;6;216;70;0;160;0;0;182
+LOMBARDIA;Bergamo;Strada urbana;Incidente tra veicoli;102;24;306;4032;336;0;1022;8;2;738
+LOMBARDIA;Bergamo;Strada urbana;Incidente tra veicolo e pedone;16;12;24;434;12;0;36;0;0;24
+LOMBARDIA;Bergamo;Strada urbana;Totale;120;54;336;4682;418;0;1218;8;2;944
+LOMBARDIA;Bergamo;Totale;Incidente a veicolo isolato;2;18;28;480;76;0;234;0;0;196
+LOMBARDIA;Bergamo;Totale;Incidente tra veicoli;214;32;610;6046;372;0;1284;10;2;858
+LOMBARDIA;Bergamo;Totale;Incidente tra veicolo e pedone;16;12;28;480;12;0;40;0;0;24
+LOMBARDIA;Bergamo;Totale;Totale;232;62;666;7006;460;0;1558;10;2;1078
+LOMBARDIA;Brescia;Altra strada;Incidente a veicolo isolato;0;2;14;220;6;0;70;4;0;18
+LOMBARDIA;Brescia;Altra strada;Incidente tra veicoli;60;12;250;1540;40;0;238;6;0;88
+LOMBARDIA;Brescia;Altra strada;Incidente tra veicolo e pedone;2;2;2;28;0;0;0;0;0;2
+LOMBARDIA;Brescia;Altra strada;Totale;62;16;266;1788;46;0;308;10;0;108
+LOMBARDIA;Brescia;Autostrada;Incidente a veicolo isolato;0;0;16;62;0;0;14;0;0;0
+LOMBARDIA;Brescia;Autostrada;Incidente tra veicoli;178;4;250;702;0;0;18;0;0;0
+LOMBARDIA;Brescia;Autostrada;Totale;178;4;266;764;0;0;32;0;0;0
+LOMBARDIA;Brescia;Strada urbana;Incidente a veicolo isolato;0;38;20;318;46;0;104;2;0;136
+LOMBARDIA;Brescia;Strada urbana;Incidente tra veicoli;124;28;374;3976;230;2;618;8;0;698
+LOMBARDIA;Brescia;Strada urbana;Incidente tra veicolo e pedone;16;6;40;416;10;0;14;2;0;24
+LOMBARDIA;Brescia;Strada urbana;Totale;140;72;434;4710;286;2;736;12;0;858
+LOMBARDIA;Brescia;Totale;Incidente a veicolo isolato;0;40;50;600;52;0;188;6;0;154
+LOMBARDIA;Brescia;Totale;Incidente tra veicoli;362;44;874;6218;270;2;874;14;0;786
+LOMBARDIA;Brescia;Totale;Incidente tra veicolo e pedone;18;8;42;444;10;0;14;2;0;26
+LOMBARDIA;Brescia;Totale;Totale;380;92;966;7262;332;2;1076;22;0;966
+LOMBARDIA;Como;Altra strada;Incidente a veicolo isolato;0;0;4;60;6;0;26;0;0;4
+LOMBARDIA;Como;Altra strada;Incidente tra veicoli;16;2;66;658;16;0;174;0;0;40
+LOMBARDIA;Como;Altra strada;Incidente tra veicolo e pedone;0;0;2;44;2;0;2;0;0;2
+LOMBARDIA;Como;Altra strada;Totale;16;2;72;762;24;0;202;0;0;46
+LOMBARDIA;Como;Autostrada;Incidente a veicolo isolato;0;0;4;18;0;0;12;0;0;0
+LOMBARDIA;Como;Autostrada;Incidente tra veicoli;6;0;34;134;0;0;10;0;0;0
+LOMBARDIA;Como;Autostrada;Totale;6;0;38;152;0;0;22;0;0;0
+LOMBARDIA;Como;Strada urbana;Incidente a veicolo isolato;0;2;18;156;12;0;76;0;0;34
+LOMBARDIA;Como;Strada urbana;Incidente tra veicoli;64;16;160;2230;112;0;558;4;0;314
+LOMBARDIA;Como;Strada urbana;Incidente tra veicolo e pedone;18;18;10;206;2;0;14;0;0;4
+LOMBARDIA;Como;Strada urbana;Totale;82;36;188;2592;126;0;648;4;0;352
+LOMBARDIA;Como;Totale;Incidente a veicolo isolato;0;2;26;234;18;0;114;0;0;38
+LOMBARDIA;Como;Totale;Incidente tra veicoli;86;18;260;3022;128;0;742;4;0;354
+LOMBARDIA;Como;Totale;Incidente tra veicolo e pedone;18;18;12;250;4;0;16;0;0;6
+LOMBARDIA;Como;Totale;Totale;104;38;298;3506;150;0;872;4;0;398
+LOMBARDIA;Cremona;Altra strada;Incidente a veicolo isolato;2;0;12;178;4;0;20;0;0;6
+LOMBARDIA;Cremona;Altra strada;Incidente tra veicoli;44;2;114;740;10;0;52;0;0;40
+LOMBARDIA;Cremona;Altra strada;Incidente tra veicolo e pedone;0;0;2;4;0;0;0;0;0;0
+LOMBARDIA;Cremona;Altra strada;Totale;46;2;128;922;14;0;72;0;0;46
+LOMBARDIA;Cremona;Autostrada;Incidente a veicolo isolato;0;0;6;6;0;0;0;0;0;0
+LOMBARDIA;Cremona;Autostrada;Incidente tra veicoli;0;0;6;24;0;0;0;0;0;0
+LOMBARDIA;Cremona;Autostrada;Totale;0;0;12;30;0;0;0;0;0;0
+LOMBARDIA;Cremona;Strada urbana;Incidente a veicolo isolato;0;2;4;104;14;0;36;0;0;52
+LOMBARDIA;Cremona;Strada urbana;Incidente tra veicoli;32;4;112;1106;48;0;106;0;2;306
+LOMBARDIA;Cremona;Strada urbana;Incidente tra veicolo e pedone;6;6;10;90;2;2;6;0;0;6
+LOMBARDIA;Cremona;Strada urbana;Totale;38;12;126;1300;64;2;148;0;2;364
+LOMBARDIA;Cremona;Totale;Incidente a veicolo isolato;2;2;22;288;18;0;56;0;0;58
+LOMBARDIA;Cremona;Totale;Incidente tra veicoli;76;6;232;1870;58;0;158;0;2;346
+LOMBARDIA;Cremona;Totale;Incidente tra veicolo e pedone;6;6;12;94;2;2;6;0;0;6
+LOMBARDIA;Cremona;Totale;Totale;84;14;266;2252;78;2;220;0;2;410
+LOMBARDIA;Lecco;Altra strada;Incidente a veicolo isolato;0;0;2;120;4;0;34;2;0;4
+LOMBARDIA;Lecco;Altra strada;Incidente tra veicoli;18;2;64;554;18;0;82;0;0;40
+LOMBARDIA;Lecco;Altra strada;Incidente tra veicolo e pedone;0;0;0;14;0;0;4;0;0;0
+LOMBARDIA;Lecco;Altra strada;Totale;18;2;66;688;22;0;120;2;0;44
+LOMBARDIA;Lecco;Strada urbana;Incidente a veicolo isolato;0;0;2;68;18;0;38;2;0;16
+LOMBARDIA;Lecco;Strada urbana;Incidente tra veicoli;12;6;92;950;86;0;256;0;0;108
+LOMBARDIA;Lecco;Strada urbana;Incidente tra veicolo e pedone;6;4;12;142;2;0;20;0;0;10
+LOMBARDIA;Lecco;Strada urbana;Totale;18;10;106;1160;106;0;314;2;0;134
+LOMBARDIA;Lecco;Totale;Incidente a veicolo isolato;0;0;4;188;22;0;72;4;0;20
+LOMBARDIA;Lecco;Totale;Incidente tra veicoli;30;8;156;1504;104;0;338;0;0;148
+LOMBARDIA;Lecco;Totale;Incidente tra veicolo e pedone;6;4;12;156;2;0;24;0;0;10
+LOMBARDIA;Lecco;Totale;Totale;36;12;172;1848;128;0;434;4;0;178
+LOMBARDIA;Lodi;Altra strada;Incidente a veicolo isolato;0;0;4;80;2;0;10;0;0;2
+LOMBARDIA;Lodi;Altra strada;Incidente tra veicoli;14;0;54;484;2;0;40;0;0;16
+LOMBARDIA;Lodi;Altra strada;Incidente tra veicolo e pedone;0;0;0;14;0;0;0;0;0;2
+LOMBARDIA;Lodi;Altra strada;Totale;14;0;58;578;4;0;50;0;0;20
+LOMBARDIA;Lodi;Autostrada;Incidente a veicolo isolato;0;0;2;12;0;0;0;0;0;0
+LOMBARDIA;Lodi;Autostrada;Incidente tra veicoli;2;0;36;94;0;0;4;0;0;0
+LOMBARDIA;Lodi;Autostrada;Incidente tra veicolo e pedone;0;0;0;2;0;0;0;0;0;0
+LOMBARDIA;Lodi;Autostrada;Totale;2;0;38;108;0;0;4;0;0;0
+LOMBARDIA;Lodi;Strada urbana;Incidente a veicolo isolato;0;0;0;30;2;0;16;0;0;12
+LOMBARDIA;Lodi;Strada urbana;Incidente tra veicoli;16;4;46;496;6;0;58;2;0;100
+LOMBARDIA;Lodi;Strada urbana;Incidente tra veicolo e pedone;2;2;2;66;2;0;0;0;0;0
+LOMBARDIA;Lodi;Strada urbana;Totale;18;6;48;592;10;0;74;2;0;112
+LOMBARDIA;Lodi;Totale;Incidente a veicolo isolato;0;0;6;122;4;0;26;0;0;14
+LOMBARDIA;Lodi;Totale;Incidente tra veicoli;32;4;136;1074;8;0;102;2;0;116
+LOMBARDIA;Lodi;Totale;Incidente tra veicolo e pedone;2;2;2;82;2;0;0;0;0;2
+LOMBARDIA;Lodi;Totale;Totale;34;6;144;1278;14;0;128;2;0;132
+LOMBARDIA;Mantova;Altra strada;Incidente a veicolo isolato;2;0;18;150;4;0;46;4;0;10
+LOMBARDIA;Mantova;Altra strada;Incidente tra veicoli;26;0;150;896;22;0;82;0;0;56
+LOMBARDIA;Mantova;Altra strada;Incidente tra veicolo e pedone;2;0;0;18;0;0;0;0;0;2
+LOMBARDIA;Mantova;Altra strada;Totale;30;0;168;1064;26;0;128;4;0;68
+LOMBARDIA;Mantova;Autostrada;Incidente a veicolo isolato;0;0;2;14;0;0;0;0;0;0
+LOMBARDIA;Mantova;Autostrada;Incidente tra veicoli;18;0;70;98;0;0;2;0;0;0
+LOMBARDIA;Mantova;Autostrada;Incidente tra veicolo e pedone;0;0;0;2;0;0;0;0;0;0
+LOMBARDIA;Mantova;Autostrada;Totale;18;0;72;114;0;0;2;0;0;0
+LOMBARDIA;Mantova;Strada urbana;Incidente a veicolo isolato;0;0;14;106;10;0;32;0;0;18
+LOMBARDIA;Mantova;Strada urbana;Incidente tra veicoli;34;6;100;1226;52;0;180;2;0;270
+LOMBARDIA;Mantova;Strada urbana;Incidente tra veicolo e pedone;12;4;20;106;2;0;2;0;0;6
+LOMBARDIA;Mantova;Strada urbana;Totale;46;10;134;1438;64;0;214;2;0;294
+LOMBARDIA;Mantova;Totale;Incidente a veicolo isolato;2;0;34;270;14;0;78;4;0;28
+LOMBARDIA;Mantova;Totale;Incidente tra veicoli;78;6;320;2220;74;0;264;2;0;326
+LOMBARDIA;Mantova;Totale;Incidente tra veicolo e pedone;14;4;20;126;2;0;2;0;0;8
+LOMBARDIA;Mantova;Totale;Totale;94;10;374;2616;90;0;344;6;0;362
+LOMBARDIA;Milano;Altra strada;Incidente a veicolo isolato;0;0;10;190;6;0;64;0;0;26
+LOMBARDIA;Milano;Altra strada;Incidente tra veicoli;102;4;282;2216;26;0;286;0;0;194
+LOMBARDIA;Milano;Altra strada;Incidente tra veicolo e pedone;0;0;8;44;0;0;2;0;0;4
+LOMBARDIA;Milano;Altra strada;Totale;102;4;300;2450;32;0;352;0;0;224
+LOMBARDIA;Milano;Autostrada;Incidente a veicolo isolato;0;4;38;296;0;0;104;0;0;0
+LOMBARDIA;Milano;Autostrada;Incidente tra veicoli;324;8;808;3014;0;0;128;0;0;0
+LOMBARDIA;Milano;Autostrada;Incidente tra veicolo e pedone;0;0;0;6;0;0;0;0;0;0
+LOMBARDIA;Milano;Autostrada;Totale;324;12;846;3316;0;0;232;0;0;0
+LOMBARDIA;Milano;Strada urbana;Incidente a veicolo isolato;4;14;24;692;354;0;1380;0;0;1174
+LOMBARDIA;Milano;Strada urbana;Incidente tra veicoli;936;188;1618;18572;624;4;5628;42;98;3456
+LOMBARDIA;Milano;Strada urbana;Incidente tra veicolo e pedone;202;48;192;2150;38;0;392;8;10;162
+LOMBARDIA;Milano;Strada urbana;Totale;1142;250;1834;21414;1016;4;7400;50;108;4792
+LOMBARDIA;Milano;Totale;Incidente a veicolo isolato;4;18;72;1178;360;0;1548;0;0;1200
+LOMBARDIA;Milano;Totale;Incidente tra veicoli;1362;200;2708;23802;650;4;6042;42;98;3650
+LOMBARDIA;Milano;Totale;Incidente tra veicolo e pedone;202;48;200;2200;38;0;394;8;10;166
+LOMBARDIA;Milano;Totale;Totale;1568;266;2980;27180;1048;4;7984;50;108;5016
+LOMBARDIA;Pavia;Altra strada;Incidente a veicolo isolato;0;0;18;182;6;0;42;0;0;8
+LOMBARDIA;Pavia;Altra strada;Incidente tra veicoli;30;0;116;834;8;0;82;0;0;58
+LOMBARDIA;Pavia;Altra strada;Incidente tra veicolo e pedone;0;0;2;12;0;0;0;0;0;0
+LOMBARDIA;Pavia;Altra strada;Totale;30;0;136;1028;14;0;124;0;0;66
+LOMBARDIA;Pavia;Autostrada;Incidente a veicolo isolato;0;0;4;28;0;0;8;0;0;0
+LOMBARDIA;Pavia;Autostrada;Incidente tra veicoli;12;2;86;214;0;0;4;0;0;0
+LOMBARDIA;Pavia;Autostrada;Incidente tra veicolo e pedone;0;0;0;2;0;0;0;0;0;0
+LOMBARDIA;Pavia;Autostrada;Totale;12;2;90;244;0;0;12;0;0;0
+LOMBARDIA;Pavia;Strada urbana;Incidente a veicolo isolato;0;0;10;100;14;0;34;0;0;48
+LOMBARDIA;Pavia;Strada urbana;Incidente tra veicoli;48;8;134;1504;62;0;204;0;0;334
+LOMBARDIA;Pavia;Strada urbana;Incidente tra veicolo e pedone;10;6;18;232;6;0;4;0;0;12
+LOMBARDIA;Pavia;Strada urbana;Totale;58;14;162;1836;82;0;242;0;0;394
+LOMBARDIA;Pavia;Totale;Incidente a veicolo isolato;0;0;32;310;20;0;84;0;0;56
+LOMBARDIA;Pavia;Totale;Incidente tra veicoli;90;10;336;2552;70;0;290;0;0;392
+LOMBARDIA;Pavia;Totale;Incidente tra veicolo e pedone;10;6;20;246;6;0;4;0;0;12
+LOMBARDIA;Pavia;Totale;Totale;100;16;388;3108;96;0;378;0;0;460
+LOMBARDIA;Sondrio;Altra strada;Incidente a veicolo isolato;0;0;4;54;2;2;28;0;0;8
+LOMBARDIA;Sondrio;Altra strada;Incidente tra veicoli;8;0;62;384;18;0;72;0;0;22
+LOMBARDIA;Sondrio;Altra strada;Incidente tra veicolo e pedone;0;0;0;8;0;0;0;0;0;0
+LOMBARDIA;Sondrio;Altra strada;Totale;8;0;66;446;20;2;100;0;0;30
+LOMBARDIA;Sondrio;Strada urbana;Incidente a veicolo isolato;0;0;0;56;8;0;18;0;0;8
+LOMBARDIA;Sondrio;Strada urbana;Incidente tra veicoli;10;4;44;352;14;2;42;0;0;46
+LOMBARDIA;Sondrio;Strada urbana;Incidente tra veicolo e pedone;2;0;4;46;2;2;2;0;0;2
+LOMBARDIA;Sondrio;Strada urbana;Totale;12;4;48;454;24;4;62;0;0;56
+LOMBARDIA;Sondrio;Totale;Incidente a veicolo isolato;0;0;4;110;10;2;46;0;0;16
+LOMBARDIA;Sondrio;Totale;Incidente tra veicoli;18;4;106;736;32;2;114;0;0;68
+LOMBARDIA;Sondrio;Totale;Incidente tra veicolo e pedone;2;0;4;54;2;2;2;0;0;2
+LOMBARDIA;Sondrio;Totale;Totale;20;4;114;900;44;6;162;0;0;86
+LOMBARDIA;Varese;Altra strada;Incidente a veicolo isolato;0;2;10;144;4;0;52;0;0;8
+LOMBARDIA;Varese;Altra strada;Incidente tra veicoli;36;2;78;1036;18;0;126;4;0;84
+LOMBARDIA;Varese;Altra strada;Incidente tra veicolo e pedone;0;0;0;18;2;0;4;0;0;0
+LOMBARDIA;Varese;Altra strada;Totale;36;4;88;1198;24;0;182;4;0;92
+LOMBARDIA;Varese;Autostrada;Incidente a veicolo isolato;0;0;2;64;0;0;6;0;0;0
+LOMBARDIA;Varese;Autostrada;Incidente tra veicoli;18;0;50;280;0;0;12;0;0;0
+LOMBARDIA;Varese;Autostrada;Totale;18;0;52;344;0;0;18;0;0;0
+LOMBARDIA;Varese;Strada urbana;Incidente a veicolo isolato;0;4;10;232;36;0;88;2;0;64
+LOMBARDIA;Varese;Strada urbana;Incidente tra veicoli;102;22;308;3992;144;0;626;12;0;710
+LOMBARDIA;Varese;Strada urbana;Incidente tra veicolo e pedone;20;10;20;432;12;0;22;0;0;16
+LOMBARDIA;Varese;Strada urbana;Totale;122;36;338;4656;192;0;736;14;0;790
+LOMBARDIA;Varese;Totale;Incidente a veicolo isolato;0;6;22;440;40;0;146;2;0;72
+LOMBARDIA;Varese;Totale;Incidente tra veicoli;156;24;436;5308;162;0;764;16;0;794
+LOMBARDIA;Varese;Totale;Incidente tra veicolo e pedone;20;10;20;450;14;0;26;0;0;16
+LOMBARDIA;Varese;Totale;Totale;176;40;478;6198;216;0;936;18;0;882
+MARCHE;Ancona;Altra strada;Incidente a veicolo isolato;0;0;10;116;8;0;38;0;0;2
+MARCHE;Ancona;Altra strada;Incidente tra veicoli;42;4;92;876;26;0;112;2;0;44
+MARCHE;Ancona;Altra strada;Incidente tra veicolo e pedone;0;0;2;20;0;0;0;0;0;0
+MARCHE;Ancona;Altra strada;Totale;42;4;104;1012;34;0;150;2;0;46
+MARCHE;Ancona;Autostrada;Incidente a veicolo isolato;0;0;4;22;0;0;6;0;0;0
+MARCHE;Ancona;Autostrada;Incidente tra veicoli;0;0;48;88;0;0;4;0;0;0
+MARCHE;Ancona;Autostrada;Totale;0;0;52;110;0;0;10;0;0;0
+MARCHE;Ancona;Strada urbana;Incidente a veicolo isolato;0;2;8;180;26;0;66;2;0;18
+MARCHE;Ancona;Strada urbana;Incidente tra veicoli;74;32;148;2372;152;2;420;4;0;164
+MARCHE;Ancona;Strada urbana;Incidente tra veicolo e pedone;16;6;18;250;4;0;18;0;0;8
+MARCHE;Ancona;Strada urbana;Totale;90;40;174;2802;182;2;504;6;0;190
+MARCHE;Ancona;Totale;Incidente a veicolo isolato;0;2;22;318;34;0;110;2;0;20
+MARCHE;Ancona;Totale;Incidente tra veicoli;116;36;288;3336;178;2;536;6;0;208
+MARCHE;Ancona;Totale;Incidente tra veicolo e pedone;16;6;20;270;4;0;18;0;0;8
+MARCHE;Ancona;Totale;Totale;132;44;330;3924;216;2;664;8;0;236
+MARCHE;Ascoli Piceno;Altra strada;Incidente a veicolo isolato;0;0;2;98;4;0;20;2;0;0
+MARCHE;Ascoli Piceno;Altra strada;Incidente tra veicoli;12;0;24;318;16;0;46;2;0;12
+MARCHE;Ascoli Piceno;Altra strada;Incidente tra veicolo e pedone;0;0;0;6;0;0;0;0;0;0
+MARCHE;Ascoli Piceno;Altra strada;Totale;12;0;26;422;20;0;66;4;0;12
+MARCHE;Ascoli Piceno;Autostrada;Incidente a veicolo isolato;0;0;0;24;0;0;2;0;0;0
+MARCHE;Ascoli Piceno;Autostrada;Incidente tra veicoli;8;2;44;104;0;0;2;0;0;0
+MARCHE;Ascoli Piceno;Autostrada;Totale;8;2;44;128;0;0;4;0;0;0
+MARCHE;Ascoli Piceno;Strada urbana;Incidente a veicolo isolato;0;0;2;72;10;0;26;0;0;18
+MARCHE;Ascoli Piceno;Strada urbana;Incidente tra veicoli;42;12;72;1132;110;0;206;2;0;132
+MARCHE;Ascoli Piceno;Strada urbana;Incidente tra veicolo e pedone;0;0;6;98;6;0;8;0;0;12
+MARCHE;Ascoli Piceno;Strada urbana;Totale;42;12;80;1302;126;0;240;2;0;162
+MARCHE;Ascoli Piceno;Totale;Incidente a veicolo isolato;0;0;4;194;14;0;48;2;0;18
+MARCHE;Ascoli Piceno;Totale;Incidente tra veicoli;62;14;140;1554;126;0;254;4;0;144
+MARCHE;Ascoli Piceno;Totale;Incidente tra veicolo e pedone;0;0;6;104;6;0;8;0;0;12
+MARCHE;Ascoli Piceno;Totale;Totale;62;14;150;1852;146;0;310;6;0;174
+MARCHE;Fermo;Altra strada;Incidente a veicolo isolato;0;2;6;94;2;0;18;2;0;2
+MARCHE;Fermo;Altra strada;Incidente tra veicoli;10;4;34;342;8;0;20;0;0;20
+MARCHE;Fermo;Altra strada;Incidente tra veicolo e pedone;0;0;4;4;0;0;0;0;0;0
+MARCHE;Fermo;Altra strada;Totale;10;6;44;440;10;0;38;2;0;22
+MARCHE;Fermo;Autostrada;Incidente a veicolo isolato;0;0;4;20;0;0;0;0;0;0
+MARCHE;Fermo;Autostrada;Incidente tra veicoli;8;0;22;72;0;0;0;0;0;0
+MARCHE;Fermo;Autostrada;Incidente tra veicolo e pedone;0;0;2;0;0;0;0;0;0;0
+MARCHE;Fermo;Autostrada;Totale;8;0;28;92;0;0;0;0;0;0
+MARCHE;Fermo;Strada urbana;Incidente a veicolo isolato;0;0;0;58;4;0;14;0;0;8
+MARCHE;Fermo;Strada urbana;Incidente tra veicoli;16;2;66;698;46;2;100;4;0;56
+MARCHE;Fermo;Strada urbana;Incidente tra veicolo e pedone;2;0;6;66;0;0;4;0;0;0
+MARCHE;Fermo;Strada urbana;Totale;18;2;72;822;50;2;118;4;0;64
+MARCHE;Fermo;Totale;Incidente a veicolo isolato;0;2;10;172;6;0;32;2;0;10
+MARCHE;Fermo;Totale;Incidente tra veicoli;34;6;122;1112;54;2;120;4;0;76
+MARCHE;Fermo;Totale;Incidente tra veicolo e pedone;2;0;12;70;0;0;4;0;0;0
+MARCHE;Fermo;Totale;Totale;36;8;144;1354;60;2;156;6;0;86
+MARCHE;Macerata;Altra strada;Incidente a veicolo isolato;0;0;18;188;8;0;36;0;0;2
+MARCHE;Macerata;Altra strada;Incidente tra veicoli;36;4;102;892;28;0;80;2;0;22
+MARCHE;Macerata;Altra strada;Incidente tra veicolo e pedone;0;0;0;10;2;0;2;0;0;0
+MARCHE;Macerata;Altra strada;Totale;36;4;120;1090;38;0;118;2;0;24
+MARCHE;Macerata;Autostrada;Incidente a veicolo isolato;0;0;0;4;0;0;0;0;0;0
+MARCHE;Macerata;Autostrada;Incidente tra veicoli;2;0;16;36;0;0;2;0;0;0
+MARCHE;Macerata;Autostrada;Incidente tra veicolo e pedone;0;0;0;2;0;0;0;0;0;0
+MARCHE;Macerata;Autostrada;Totale;2;0;16;42;0;0;2;0;0;0
+MARCHE;Macerata;Strada urbana;Incidente a veicolo isolato;0;2;0;102;14;0;20;0;0;8
+MARCHE;Macerata;Strada urbana;Incidente tra veicoli;18;6;84;1276;100;2;186;2;0;78
+MARCHE;Macerata;Strada urbana;Incidente tra veicolo e pedone;2;2;14;184;0;0;4;0;0;8
+MARCHE;Macerata;Strada urbana;Totale;20;10;98;1562;114;2;210;2;0;94
+MARCHE;Macerata;Totale;Incidente a veicolo isolato;0;2;18;294;22;0;56;0;0;10
+MARCHE;Macerata;Totale;Incidente tra veicoli;56;10;202;2204;128;2;268;4;0;100
+MARCHE;Macerata;Totale;Incidente tra veicolo e pedone;2;2;14;196;2;0;6;0;0;8
+MARCHE;Macerata;Totale;Totale;58;14;234;2694;152;2;330;4;0;118
+MOLISE;Campobasso;Altra strada;Incidente a veicolo isolato;0;0;0;70;0;0;12;0;0;0
+MOLISE;Campobasso;Altra strada;Incidente tra veicoli;6;4;58;288;0;0;16;0;0;2
+MOLISE;Campobasso;Altra strada;Incidente tra veicolo e pedone;0;0;0;6;0;0;0;0;0;0
+MOLISE;Campobasso;Altra strada;Totale;6;4;58;364;0;0;28;0;0;2
+MOLISE;Campobasso;Autostrada;Incidente a veicolo isolato;0;0;0;10;0;0;0;0;0;0
+MOLISE;Campobasso;Autostrada;Incidente tra veicoli;0;0;4;30;0;0;0;0;0;0
+MOLISE;Campobasso;Autostrada;Totale;0;0;4;40;0;0;0;0;0;0
+MOLISE;Campobasso;Strada urbana;Incidente a veicolo isolato;0;0;4;22;0;0;8;2;0;0
+MOLISE;Campobasso;Strada urbana;Incidente tra veicoli;6;2;22;398;28;0;76;0;0;18
+MOLISE;Campobasso;Strada urbana;Incidente tra veicolo e pedone;0;0;4;76;4;0;2;0;0;2
+MOLISE;Campobasso;Strada urbana;Totale;6;2;30;496;32;0;86;2;0;20
+MOLISE;Campobasso;Totale;Incidente a veicolo isolato;0;0;4;102;0;0;20;2;0;0
+MOLISE;Campobasso;Totale;Incidente tra veicoli;12;6;84;716;28;0;92;0;0;20
+MOLISE;Campobasso;Totale;Incidente tra veicolo e pedone;0;0;4;82;4;0;2;0;0;2
+MOLISE;Campobasso;Totale;Totale;12;6;92;900;32;0;114;2;0;22
+MOLISE;Isernia;Altra strada;Incidente a veicolo isolato;0;0;4;64;0;0;14;0;0;0
+MOLISE;Isernia;Altra strada;Incidente tra veicoli;6;2;26;188;0;0;16;0;0;4
+MOLISE;Isernia;Altra strada;Incidente tra veicolo e pedone;0;0;0;2;0;0;0;0;0;0
+MOLISE;Isernia;Altra strada;Totale;6;2;30;254;0;0;30;0;0;4
+MOLISE;Isernia;Strada urbana;Incidente a veicolo isolato;0;0;2;16;2;0;4;0;0;0
+MOLISE;Isernia;Strada urbana;Incidente tra veicoli;14;0;4;110;8;0;8;0;0;6
+MOLISE;Isernia;Strada urbana;Incidente tra veicolo e pedone;2;0;6;24;0;0;0;0;0;0
+MOLISE;Isernia;Strada urbana;Totale;16;0;12;150;10;0;12;0;0;6
+MOLISE;Isernia;Totale;Incidente a veicolo isolato;0;0;6;80;2;0;18;0;0;0
+MOLISE;Isernia;Totale;Incidente tra veicoli;20;2;30;298;8;0;24;0;0;10
+MOLISE;Isernia;Totale;Incidente tra veicolo e pedone;2;0;6;26;0;0;0;0;0;0
+MOLISE;Isernia;Totale;Totale;22;2;42;404;10;0;42;0;0;10
+PIEMONTE;Alessandria;Altra strada;Incidente a veicolo isolato;0;0;14;158;4;0;22;0;0;0
+PIEMONTE;Alessandria;Altra strada;Incidente tra veicoli;20;4;92;858;6;0;82;0;0;16
+PIEMONTE;Alessandria;Altra strada;Incidente tra veicolo e pedone;2;0;2;14;0;0;0;0;0;0
+PIEMONTE;Alessandria;Altra strada;Totale;22;4;108;1030;10;0;104;0;0;16
+PIEMONTE;Alessandria;Autostrada;Incidente a veicolo isolato;0;0;22;76;0;0;10;0;0;0
+PIEMONTE;Alessandria;Autostrada;Incidente tra veicoli;36;0;128;210;0;0;14;0;0;0
+PIEMONTE;Alessandria;Autostrada;Totale;36;0;150;286;0;0;24;0;0;0
+PIEMONTE;Alessandria;Strada urbana;Incidente a veicolo isolato;0;0;6;114;6;0;26;0;0;16
+PIEMONTE;Alessandria;Strada urbana;Incidente tra veicoli;38;6;134;1534;60;2;174;0;0;198
+PIEMONTE;Alessandria;Strada urbana;Incidente tra veicolo e pedone;10;0;14;214;4;0;2;0;0;6
+PIEMONTE;Alessandria;Strada urbana;Totale;48;6;154;1862;70;2;202;0;0;220
+PIEMONTE;Alessandria;Totale;Incidente a veicolo isolato;0;0;42;348;10;0;58;0;0;16
+PIEMONTE;Alessandria;Totale;Incidente tra veicoli;94;10;354;2602;66;2;270;0;0;214
+PIEMONTE;Alessandria;Totale;Incidente tra veicolo e pedone;12;0;16;228;4;0;2;0;0;6
+PIEMONTE;Alessandria;Totale;Totale;106;10;412;3178;80;2;330;0;0;236
+PIEMONTE;Asti;Altra strada;Incidente a veicolo isolato;2;2;2;92;0;0;14;0;0;2
+PIEMONTE;Asti;Altra strada;Incidente tra veicoli;10;4;34;304;4;0;34;2;0;12
+PIEMONTE;Asti;Altra strada;Incidente tra veicolo e pedone;2;0;0;8;0;0;2;0;0;0
+PIEMONTE;Asti;Altra strada;Totale;14;6;36;404;4;0;50;2;0;14
+PIEMONTE;Asti;Autostrada;Incidente a veicolo isolato;0;0;2;16;0;0;2;0;0;0
+PIEMONTE;Asti;Autostrada;Incidente tra veicoli;0;0;16;56;0;0;0;0;0;0
+PIEMONTE;Asti;Autostrada;Totale;0;0;18;72;0;0;2;0;0;0
+PIEMONTE;Asti;Strada urbana;Incidente a veicolo isolato;0;0;4;48;2;0;14;0;0;2
+PIEMONTE;Asti;Strada urbana;Incidente tra veicoli;14;8;46;586;20;0;74;2;0;56
+PIEMONTE;Asti;Strada urbana;Incidente tra veicolo e pedone;2;6;8;124;4;0;6;0;0;6
+PIEMONTE;Asti;Strada urbana;Totale;16;14;58;758;26;0;94;2;0;64
+PIEMONTE;Asti;Totale;Incidente a veicolo isolato;2;2;8;156;2;0;30;0;0;4
+PIEMONTE;Asti;Totale;Incidente tra veicoli;24;12;96;946;24;0;108;4;0;68
+PIEMONTE;Asti;Totale;Incidente tra veicolo e pedone;4;6;8;132;4;0;8;0;0;6
+PIEMONTE;Asti;Totale;Totale;30;20;112;1234;30;0;146;4;0;78
+PIEMONTE;Biella;Altra strada;Incidente a veicolo isolato;0;0;4;44;4;0;22;0;0;0
+PIEMONTE;Biella;Altra strada;Incidente tra veicoli;14;2;16;172;10;0;24;0;0;8
+PIEMONTE;Biella;Altra strada;Incidente tra veicolo e pedone;0;0;0;2;0;0;0;0;0;0
+PIEMONTE;Biella;Altra strada;Totale;14;2;20;218;14;0;46;0;0;8
+PIEMONTE;Biella;Strada urbana;Incidente a veicolo isolato;0;0;0;44;6;0;12;0;0;8
+PIEMONTE;Biella;Strada urbana;Incidente tra veicoli;14;4;26;638;38;0;102;2;0;72
+PIEMONTE;Biella;Strada urbana;Incidente tra veicolo e pedone;6;2;2;94;2;0;0;2;0;2
+PIEMONTE;Biella;Strada urbana;Totale;20;6;28;776;46;0;114;4;0;82
+PIEMONTE;Biella;Totale;Incidente a veicolo isolato;0;0;4;88;10;0;34;0;0;8
+PIEMONTE;Biella;Totale;Incidente tra veicoli;28;6;42;810;48;0;126;2;0;80
+PIEMONTE;Biella;Totale;Incidente tra veicolo e pedone;6;2;2;96;2;0;0;2;0;2
+PIEMONTE;Biella;Totale;Totale;34;8;48;994;60;0;160;4;0;90
+PIEMONTE;Cuneo;Altra strada;Incidente a veicolo isolato;2;0;26;214;4;0;38;4;0;4
+PIEMONTE;Cuneo;Altra strada;Incidente tra veicoli;64;6;142;1140;22;0;116;2;0;50
+PIEMONTE;Cuneo;Altra strada;Incidente tra veicolo e pedone;0;0;4;20;0;0;0;0;0;0
+PIEMONTE;Cuneo;Altra strada;Totale;66;6;172;1374;26;0;154;6;0;54
+PIEMONTE;Cuneo;Autostrada;Incidente a veicolo isolato;0;0;8;42;0;0;8;0;0;0
+PIEMONTE;Cuneo;Autostrada;Incidente tra veicoli;2;0;30;60;0;0;2;0;0;0
+PIEMONTE;Cuneo;Autostrada;Incidente tra veicolo e pedone;0;0;0;2;0;0;0;0;0;0
+PIEMONTE;Cuneo;Autostrada;Totale;2;0;38;104;0;0;10;0;0;0
+PIEMONTE;Cuneo;Strada urbana;Incidente a veicolo isolato;0;0;2;112;2;0;14;0;0;6
+PIEMONTE;Cuneo;Strada urbana;Incidente tra veicoli;16;6;106;1284;36;0;138;2;0;198
+PIEMONTE;Cuneo;Strada urbana;Incidente tra veicolo e pedone;0;2;8;198;0;0;6;2;0;6
+PIEMONTE;Cuneo;Strada urbana;Totale;16;8;116;1594;38;0;158;4;0;210
+PIEMONTE;Cuneo;Totale;Incidente a veicolo isolato;2;0;36;368;6;0;60;4;0;10
+PIEMONTE;Cuneo;Totale;Incidente tra veicoli;82;12;278;2484;58;0;256;4;0;248
+PIEMONTE;Cuneo;Totale;Incidente tra veicolo e pedone;0;2;12;220;0;0;6;2;0;6
+PIEMONTE;Cuneo;Totale;Totale;84;14;326;3072;64;0;322;10;0;264
+PIEMONTE;Novara;Altra strada;Incidente a veicolo isolato;0;0;4;110;0;0;28;0;0;4
+PIEMONTE;Novara;Altra strada;Incidente tra veicoli;10;0;72;632;12;0;76;0;0;30
+PIEMONTE;Novara;Altra strada;Incidente tra veicolo e pedone;0;0;0;6;0;0;0;0;0;0
+PIEMONTE;Novara;Altra strada;Totale;10;0;76;748;12;0;104;0;0;34
+PIEMONTE;Novara;Autostrada;Incidente a veicolo isolato;0;0;2;34;0;0;2;0;0;0
+PIEMONTE;Novara;Autostrada;Incidente tra veicoli;8;2;34;110;0;0;0;0;0;0
+PIEMONTE;Novara;Autostrada;Totale;8;2;36;144;0;0;2;0;0;0
+PIEMONTE;Novara;Strada urbana;Incidente a veicolo isolato;0;0;6;100;14;0;18;0;0;10
+PIEMONTE;Novara;Strada urbana;Incidente tra veicoli;38;20;94;1440;70;4;164;6;0;264
+PIEMONTE;Novara;Strada urbana;Incidente tra veicolo e pedone;14;2;12;182;4;0;2;0;0;4
+PIEMONTE;Novara;Strada urbana;Totale;52;22;112;1722;88;4;184;6;0;278
+PIEMONTE;Novara;Totale;Incidente a veicolo isolato;0;0;12;244;14;0;48;0;0;14
+PIEMONTE;Novara;Totale;Incidente tra veicoli;56;22;200;2182;82;4;240;6;0;294
+PIEMONTE;Novara;Totale;Incidente tra veicolo e pedone;14;2;12;188;4;0;2;0;0;4
+PIEMONTE;Novara;Totale;Totale;70;24;224;2614;100;4;290;6;0;312
+PIEMONTE;Torino;Altra strada;Incidente a veicolo isolato;0;0;4;282;6;0;62;2;0;4
+PIEMONTE;Torino;Altra strada;Incidente tra veicoli;58;6;162;1602;18;0;198;2;0;66
+PIEMONTE;Torino;Altra strada;Incidente tra veicolo e pedone;0;0;0;22;0;0;0;0;0;0
+PIEMONTE;Torino;Altra strada;Totale;58;6;166;1906;24;0;260;4;0;70
+PIEMONTE;Torino;Autostrada;Incidente a veicolo isolato;0;0;26;270;0;0;16;0;0;0
+PIEMONTE;Torino;Autostrada;Incidente tra veicoli;72;6;348;998;0;0;30;0;0;0
+PIEMONTE;Torino;Autostrada;Incidente tra veicolo e pedone;0;0;2;4;0;0;0;0;0;0
+PIEMONTE;Torino;Autostrada;Totale;72;6;376;1272;0;0;46;0;0;0
+PIEMONTE;Torino;Strada urbana;Incidente a veicolo isolato;4;18;4;370;26;2;160;0;2;118
+PIEMONTE;Torino;Strada urbana;Incidente tra veicoli;410;202;566;10024;128;2;1374;14;50;1280
+PIEMONTE;Torino;Strada urbana;Incidente tra veicolo e pedone;60;28;76;1200;6;0;52;6;24;48
+PIEMONTE;Torino;Strada urbana;Totale;474;248;646;11594;160;4;1586;20;76;1446
+PIEMONTE;Torino;Totale;Incidente a veicolo isolato;4;18;34;922;32;2;238;2;2;122
+PIEMONTE;Torino;Totale;Incidente tra veicoli;540;214;1076;12624;146;2;1602;16;50;1346
+PIEMONTE;Torino;Totale;Incidente tra veicolo e pedone;60;28;78;1226;6;0;52;6;24;48
+PIEMONTE;Torino;Totale;Totale;604;260;1188;14772;184;4;1892;24;76;1516
+PIEMONTE;Vercelli;Altra strada;Incidente a veicolo isolato;0;0;6;108;4;0;18;0;0;2
+PIEMONTE;Vercelli;Altra strada;Incidente tra veicoli;14;4;36;292;8;0;14;0;0;14
+PIEMONTE;Vercelli;Altra strada;Incidente tra veicolo e pedone;0;0;0;4;0;0;0;0;0;0
+PIEMONTE;Vercelli;Altra strada;Totale;14;4;42;404;12;0;32;0;0;16
+PIEMONTE;Vercelli;Autostrada;Incidente a veicolo isolato;0;0;10;12;0;0;2;0;0;0
+PIEMONTE;Vercelli;Autostrada;Incidente tra veicoli;2;2;42;88;0;0;0;0;0;0
+PIEMONTE;Vercelli;Autostrada;Totale;2;2;52;100;0;0;2;0;0;0
+PIEMONTE;Vercelli;Strada urbana;Incidente a veicolo isolato;0;0;4;26;0;0;6;0;0;2
+PIEMONTE;Vercelli;Strada urbana;Incidente tra veicoli;8;2;26;538;14;0;40;0;0;78
+PIEMONTE;Vercelli;Strada urbana;Incidente tra veicolo e pedone;0;0;2;50;2;0;0;0;0;2
+PIEMONTE;Vercelli;Strada urbana;Totale;8;2;32;614;16;0;46;0;0;82
+PIEMONTE;Vercelli;Totale;Incidente a veicolo isolato;0;0;20;146;4;0;26;0;0;4
+PIEMONTE;Vercelli;Totale;Incidente tra veicoli;24;8;104;918;22;0;54;0;0;92
+PIEMONTE;Vercelli;Totale;Incidente tra veicolo e pedone;0;0;2;54;2;0;0;0;0;2
+PIEMONTE;Vercelli;Totale;Totale;24;8;126;1118;28;0;80;0;0;98
+PUGLIE;Bari;Altra strada;Incidente a veicolo isolato;4;2;22;502;2;0;62;0;0;4
+PUGLIE;Bari;Altra strada;Incidente tra veicoli;212;8;298;2758;20;2;214;0;0;40
+PUGLIE;Bari;Altra strada;Incidente tra veicolo e pedone;0;0;2;14;0;0;0;0;0;0
+PUGLIE;Bari;Altra strada;Totale;216;10;322;3274;22;2;276;0;0;44
+PUGLIE;Bari;Autostrada;Incidente a veicolo isolato;0;0;4;14;0;0;2;0;0;0
+PUGLIE;Bari;Autostrada;Incidente tra veicoli;2;0;16;32;0;0;0;0;0;0
+PUGLIE;Bari;Autostrada;Totale;2;0;20;46;0;0;2;0;0;0
+PUGLIE;Bari;Strada urbana;Incidente a veicolo isolato;0;6;2;192;18;0;138;0;0;68
+PUGLIE;Bari;Strada urbana;Incidente tra veicoli;250;58;306;6516;200;10;1664;12;0;428
+PUGLIE;Bari;Strada urbana;Incidente tra veicolo e pedone;44;10;44;696;10;0;70;0;0;30
+PUGLIE;Bari;Strada urbana;Totale;294;74;352;7404;228;10;1872;12;0;526
+PUGLIE;Bari;Totale;Incidente a veicolo isolato;4;8;28;708;20;0;202;0;0;72
+PUGLIE;Bari;Totale;Incidente tra veicoli;464;66;620;9306;220;12;1878;12;0;468
+PUGLIE;Bari;Totale;Incidente tra veicolo e pedone;44;10;46;710;10;0;70;0;0;30
+PUGLIE;Bari;Totale;Totale;512;84;694;10724;250;12;2150;12;0;570
+PUGLIE;Brindisi;Altra strada;Incidente a veicolo isolato;0;0;8;210;2;0;34;2;0;4
+PUGLIE;Brindisi;Altra strada;Incidente tra veicoli;26;2;102;816;10;2;88;0;0;24
+PUGLIE;Brindisi;Altra strada;Incidente tra veicolo e pedone;0;0;2;2;0;0;2;0;0;0
+PUGLIE;Brindisi;Altra strada;Totale;26;2;112;1028;12;2;124;2;0;28
+PUGLIE;Brindisi;Strada urbana;Incidente a veicolo isolato;2;0;0;42;12;0;40;0;0;6
+PUGLIE;Brindisi;Strada urbana;Incidente tra veicoli;32;14;60;1660;84;4;266;0;0;94
+PUGLIE;Brindisi;Strada urbana;Incidente tra veicolo e pedone;4;0;10;168;2;0;10;0;0;4
+PUGLIE;Brindisi;Strada urbana;Totale;38;14;70;1870;98;4;316;0;0;104
+PUGLIE;Brindisi;Totale;Incidente a veicolo isolato;2;0;8;252;14;0;74;2;0;10
+PUGLIE;Brindisi;Totale;Incidente tra veicoli;58;16;162;2476;94;6;354;0;0;118
+PUGLIE;Brindisi;Totale;Incidente tra veicolo e pedone;4;0;12;170;2;0;12;0;0;4
+PUGLIE;Brindisi;Totale;Totale;64;16;182;2898;110;6;440;2;0;132
+PUGLIE;Foggia;Altra strada;Incidente a veicolo isolato;4;0;24;262;4;0;20;0;0;0
+PUGLIE;Foggia;Altra strada;Incidente tra veicoli;68;4;140;874;2;2;60;2;0;12
+PUGLIE;Foggia;Altra strada;Incidente tra veicolo e pedone;4;0;0;6;0;0;0;0;0;0
+PUGLIE;Foggia;Altra strada;Totale;76;4;164;1142;6;2;80;2;0;12
+PUGLIE;Foggia;Autostrada;Incidente a veicolo isolato;0;0;6;24;0;0;4;0;0;0
+PUGLIE;Foggia;Autostrada;Incidente tra veicoli;4;0;54;98;0;0;2;0;0;0
+PUGLIE;Foggia;Autostrada;Totale;4;0;60;122;0;0;6;0;0;0
+PUGLIE;Foggia;Strada urbana;Incidente a veicolo isolato;0;0;0;62;2;0;14;0;0;22
+PUGLIE;Foggia;Strada urbana;Incidente tra veicoli;96;14;68;2466;60;4;274;2;0;204
+PUGLIE;Foggia;Strada urbana;Incidente tra veicolo e pedone;18;6;12;188;2;0;8;0;0;2
+PUGLIE;Foggia;Strada urbana;Totale;114;20;80;2716;64;4;296;2;0;228
+PUGLIE;Foggia;Totale;Incidente a veicolo isolato;4;0;30;348;6;0;38;0;0;22
+PUGLIE;Foggia;Totale;Incidente tra veicoli;168;18;262;3438;62;6;336;4;0;216
+PUGLIE;Foggia;Totale;Incidente tra veicolo e pedone;22;6;12;194;2;0;8;0;0;2
+PUGLIE;Foggia;Totale;Totale;194;24;304;3980;70;6;382;4;0;240
+PUGLIE;Lecce;Altra strada;Incidente a veicolo isolato;2;0;16;282;6;0;50;0;0;2
+PUGLIE;Lecce;Altra strada;Incidente tra veicoli;34;2;74;1352;32;8;150;4;0;34
+PUGLIE;Lecce;Altra strada;Incidente tra veicolo e pedone;2;2;0;10;0;0;0;0;0;0
+PUGLIE;Lecce;Altra strada;Totale;38;4;90;1644;38;8;200;4;0;36
+PUGLIE;Lecce;Strada urbana;Incidente a veicolo isolato;0;0;0;110;14;0;56;0;0;22
+PUGLIE;Lecce;Strada urbana;Incidente tra veicoli;66;8;136;3298;266;10;484;4;0;176
+PUGLIE;Lecce;Strada urbana;Incidente tra veicolo e pedone;80;0;6;234;8;0;12;0;0;4
+PUGLIE;Lecce;Strada urbana;Totale;146;8;142;3642;288;10;552;4;0;202
+PUGLIE;Lecce;Totale;Incidente a veicolo isolato;2;0;16;392;20;0;106;0;0;24
+PUGLIE;Lecce;Totale;Incidente tra veicoli;100;10;210;4650;298;18;634;8;0;210
+PUGLIE;Lecce;Totale;Incidente tra veicolo e pedone;82;2;6;244;8;0;12;0;0;4
+PUGLIE;Lecce;Totale;Totale;184;12;232;5286;326;18;752;8;0;238
+PUGLIE;Taranto;Altra strada;Incidente a veicolo isolato;0;0;4;178;4;0;30;0;0;2
+PUGLIE;Taranto;Altra strada;Incidente tra veicoli;48;8;86;978;8;4;100;0;0;18
+PUGLIE;Taranto;Altra strada;Incidente tra veicolo e pedone;0;0;2;14;0;0;0;0;0;0
+PUGLIE;Taranto;Altra strada;Totale;48;8;92;1170;12;4;130;0;0;20
+PUGLIE;Taranto;Autostrada;Incidente a veicolo isolato;0;0;0;4;0;0;0;0;0;0
+PUGLIE;Taranto;Autostrada;Incidente tra veicoli;0;0;0;8;0;0;0;0;0;0
+PUGLIE;Taranto;Autostrada;Totale;0;0;0;12;0;0;0;0;0;0
+PUGLIE;Taranto;Strada urbana;Incidente a veicolo isolato;0;4;0;98;4;0;44;0;0;24
+PUGLIE;Taranto;Strada urbana;Incidente tra veicoli;116;28;120;3310;52;2;644;2;0;102
+PUGLIE;Taranto;Strada urbana;Incidente tra veicolo e pedone;26;4;8;246;2;0;26;0;0;14
+PUGLIE;Taranto;Strada urbana;Totale;142;36;128;3654;58;2;714;2;0;140
+PUGLIE;Taranto;Totale;Incidente a veicolo isolato;0;4;4;280;8;0;74;0;0;26
+PUGLIE;Taranto;Totale;Incidente tra veicoli;164;36;206;4296;60;6;744;2;0;120
+PUGLIE;Taranto;Totale;Incidente tra veicolo e pedone;26;4;10;260;2;0;26;0;0;14
+PUGLIE;Taranto;Totale;Totale;190;44;220;4836;70;6;844;2;0;160
+SARDEGNA;Cagliari;Altra strada;Incidente a veicolo isolato;0;0;0;84;0;0;12;0;0;0
+SARDEGNA;Cagliari;Altra strada;Incidente tra veicoli;68;2;70;818;0;0;70;0;0;6
+SARDEGNA;Cagliari;Altra strada;Incidente tra veicolo e pedone;0;0;2;6;0;0;0;0;0;0
+SARDEGNA;Cagliari;Altra strada;Totale;68;2;72;908;0;0;82;0;0;6
+SARDEGNA;Cagliari;Strada urbana;Incidente a veicolo isolato;0;4;4;102;0;0;46;2;0;14
+SARDEGNA;Cagliari;Strada urbana;Incidente tra veicoli;40;6;76;1476;36;0;422;0;2;116
+SARDEGNA;Cagliari;Strada urbana;Incidente tra veicolo e pedone;8;2;18;296;2;0;18;2;0;4
+SARDEGNA;Cagliari;Strada urbana;Totale;48;12;98;1874;38;0;486;4;2;134
+SARDEGNA;Cagliari;Totale;Incidente a veicolo isolato;0;4;4;186;0;0;58;2;0;14
+SARDEGNA;Cagliari;Totale;Incidente tra veicoli;108;8;146;2294;36;0;492;0;2;122
+SARDEGNA;Cagliari;Totale;Incidente tra veicolo e pedone;8;2;20;302;2;0;18;2;0;4
+SARDEGNA;Cagliari;Totale;Totale;116;14;170;2782;38;0;568;4;2;140
+SARDEGNA;Nuoro;Altra strada;Incidente a veicolo isolato;0;0;4;140;2;0;60;2;0;0
+SARDEGNA;Nuoro;Altra strada;Incidente tra veicoli;20;2;62;414;0;0;54;0;0;6
+SARDEGNA;Nuoro;Altra strada;Incidente tra veicolo e pedone;0;0;0;2;0;0;0;0;0;0
+SARDEGNA;Nuoro;Altra strada;Totale;20;2;66;556;2;0;114;2;0;6
+SARDEGNA;Nuoro;Strada urbana;Incidente a veicolo isolato;0;0;2;40;4;0;6;0;0;0
+SARDEGNA;Nuoro;Strada urbana;Incidente tra veicoli;6;0;14;282;6;0;44;0;0;16
+SARDEGNA;Nuoro;Strada urbana;Incidente tra veicolo e pedone;0;2;10;50;0;0;2;0;0;2
+SARDEGNA;Nuoro;Strada urbana;Totale;6;2;26;372;10;0;52;0;0;18
+SARDEGNA;Nuoro;Totale;Incidente a veicolo isolato;0;0;6;180;6;0;66;2;0;0
+SARDEGNA;Nuoro;Totale;Incidente tra veicoli;26;2;76;696;6;0;98;0;0;22
+SARDEGNA;Nuoro;Totale;Incidente tra veicolo e pedone;0;2;10;52;0;0;2;0;0;2
+SARDEGNA;Nuoro;Totale;Totale;26;4;92;928;12;0;166;2;0;24
+SARDEGNA;Oristano;Altra strada;Incidente a veicolo isolato;2;0;6;84;6;2;20;0;0;0
+SARDEGNA;Oristano;Altra strada;Incidente tra veicoli;14;0;48;258;0;0;22;0;0;12
+SARDEGNA;Oristano;Altra strada;Incidente tra veicolo e pedone;0;0;0;10;0;0;2;0;0;0
+SARDEGNA;Oristano;Altra strada;Totale;16;0;54;352;6;2;44;0;0;12
+SARDEGNA;Oristano;Strada urbana;Incidente a veicolo isolato;0;0;0;12;2;0;0;0;0;4
+SARDEGNA;Oristano;Strada urbana;Incidente tra veicoli;8;0;6;296;14;0;24;0;0;52
+SARDEGNA;Oristano;Strada urbana;Incidente tra veicolo e pedone;2;0;0;34;0;0;2;0;0;2
+SARDEGNA;Oristano;Strada urbana;Totale;10;0;6;342;16;0;26;0;0;58
+SARDEGNA;Oristano;Totale;Incidente a veicolo isolato;2;0;6;96;8;2;20;0;0;4
+SARDEGNA;Oristano;Totale;Incidente tra veicoli;22;0;54;554;14;0;46;0;0;64
+SARDEGNA;Oristano;Totale;Incidente tra veicolo e pedone;2;0;0;44;0;0;4;0;0;2
+SARDEGNA;Oristano;Totale;Totale;26;0;60;694;22;2;70;0;0;70
+SARDEGNA;Sassari;Altra strada;Incidente a veicolo isolato;0;0;18;286;10;0;108;0;0;4
+SARDEGNA;Sassari;Altra strada;Incidente tra veicoli;42;6;122;1136;8;0;106;0;0;12
+SARDEGNA;Sassari;Altra strada;Incidente tra veicolo e pedone;0;0;0;12;0;0;0;0;0;0
+SARDEGNA;Sassari;Altra strada;Totale;42;6;140;1434;18;0;214;0;0;16
+SARDEGNA;Sassari;Strada urbana;Incidente a veicolo isolato;0;0;6;122;28;2;84;0;0;12
+SARDEGNA;Sassari;Strada urbana;Incidente tra veicoli;26;18;96;1818;122;0;378;4;0;102
+SARDEGNA;Sassari;Strada urbana;Incidente tra veicolo e pedone;16;0;20;264;4;0;18;0;0;14
+SARDEGNA;Sassari;Strada urbana;Totale;42;18;122;2204;154;2;480;4;0;128
+SARDEGNA;Sassari;Totale;Incidente a veicolo isolato;0;0;24;408;38;2;192;0;0;16
+SARDEGNA;Sassari;Totale;Incidente tra veicoli;68;24;218;2954;130;0;484;4;0;114
+SARDEGNA;Sassari;Totale;Incidente tra veicolo e pedone;16;0;20;276;4;0;18;0;0;14
+SARDEGNA;Sassari;Totale;Totale;84;24;262;3638;172;2;694;4;0;144
+SICILIA;Agrigento;Altra strada;Incidente a veicolo isolato;0;0;4;34;6;0;12;0;0;2
+SICILIA;Agrigento;Altra strada;Incidente tra veicoli;16;0;34;398;18;0;42;0;0;4
+SICILIA;Agrigento;Altra strada;Incidente tra veicolo e pedone;0;0;0;10;0;0;0;0;0;0
+SICILIA;Agrigento;Altra strada;Totale;16;0;38;442;24;0;54;0;0;6
+SICILIA;Agrigento;Strada urbana;Incidente a veicolo isolato;0;0;0;50;6;0;30;10;0;2
+SICILIA;Agrigento;Strada urbana;Incidente tra veicoli;10;6;50;864;130;0;198;16;0;26
+SICILIA;Agrigento;Strada urbana;Incidente tra veicolo e pedone;0;0;0;64;4;0;2;0;0;0
+SICILIA;Agrigento;Strada urbana;Totale;10;6;50;978;140;0;230;26;0;28
+SICILIA;Agrigento;Totale;Incidente a veicolo isolato;0;0;4;84;12;0;42;10;0;4
+SICILIA;Agrigento;Totale;Incidente tra veicoli;26;6;84;1262;148;0;240;16;0;30
+SICILIA;Agrigento;Totale;Incidente tra veicolo e pedone;0;0;0;74;4;0;2;0;0;0
+SICILIA;Agrigento;Totale;Totale;26;6;88;1420;164;0;284;26;0;34
+SICILIA;Caltanissetta;Altra strada;Incidente a veicolo isolato;4;0;10;48;2;0;12;2;0;0
+SICILIA;Caltanissetta;Altra strada;Incidente tra veicoli;4;2;34;184;2;0;16;0;0;10
+SICILIA;Caltanissetta;Altra strada;Totale;8;2;44;232;4;0;28;2;0;10
+SICILIA;Caltanissetta;Autostrada;Incidente a veicolo isolato;0;0;0;8;0;0;0;0;0;0
+SICILIA;Caltanissetta;Autostrada;Incidente tra veicoli;0;0;0;12;0;0;0;0;0;0
+SICILIA;Caltanissetta;Autostrada;Totale;0;0;0;20;0;0;0;0;0;0
+SICILIA;Caltanissetta;Strada urbana;Incidente a veicolo isolato;0;0;0;22;16;0;24;2;0;6
+SICILIA;Caltanissetta;Strada urbana;Incidente tra veicoli;28;0;58;1056;116;2;244;8;0;34
+SICILIA;Caltanissetta;Strada urbana;Incidente tra veicolo e pedone;4;0;2;64;2;0;6;0;0;2
+SICILIA;Caltanissetta;Strada urbana;Totale;32;0;60;1142;134;2;274;10;0;42
+SICILIA;Caltanissetta;Totale;Incidente a veicolo isolato;4;0;10;78;18;0;36;4;0;6
+SICILIA;Caltanissetta;Totale;Incidente tra veicoli;32;2;92;1252;118;2;260;8;0;44
+SICILIA;Caltanissetta;Totale;Incidente tra veicolo e pedone;4;0;2;64;2;0;6;0;0;2
+SICILIA;Caltanissetta;Totale;Totale;40;2;104;1394;138;2;302;12;0;52
+SICILIA;Catania;Altra strada;Incidente a veicolo isolato;0;0;6;158;8;0;42;0;0;10
+SICILIA;Catania;Altra strada;Incidente tra veicoli;50;4;120;1036;18;2;184;0;0;20
+SICILIA;Catania;Altra strada;Incidente tra veicolo e pedone;0;0;0;6;2;0;8;2;0;0
+SICILIA;Catania;Altra strada;Totale;50;4;126;1200;28;2;234;2;0;30
+SICILIA;Catania;Autostrada;Incidente a veicolo isolato;0;0;6;92;0;0;32;0;0;0
+SICILIA;Catania;Autostrada;Incidente tra veicoli;72;2;78;538;0;0;46;0;0;0
+SICILIA;Catania;Autostrada;Incidente tra veicolo e pedone;0;0;2;0;0;0;0;0;0;0
+SICILIA;Catania;Autostrada;Totale;72;2;86;630;0;0;78;0;0;0
+SICILIA;Catania;Strada urbana;Incidente a veicolo isolato;0;2;8;448;28;0;242;2;0;30
+SICILIA;Catania;Strada urbana;Incidente tra veicoli;170;18;180;5460;246;2;1890;52;0;142
+SICILIA;Catania;Strada urbana;Incidente tra veicolo e pedone;48;0;16;422;8;0;84;6;0;6
+SICILIA;Catania;Strada urbana;Totale;218;20;204;6330;282;2;2216;60;0;178
+SICILIA;Catania;Totale;Incidente a veicolo isolato;0;2;20;698;36;0;316;2;0;40
+SICILIA;Catania;Totale;Incidente tra veicoli;292;24;378;7034;264;4;2120;52;0;162
+SICILIA;Catania;Totale;Incidente tra veicolo e pedone;48;0;18;428;10;0;92;8;0;6
+SICILIA;Catania;Totale;Totale;340;26;416;8160;310;4;2528;62;0;208
+SICILIA;Enna;Altra strada;Incidente a veicolo isolato;0;0;6;30;0;0;6;0;0;2
+SICILIA;Enna;Altra strada;Incidente tra veicoli;2;2;8;180;2;0;22;0;0;0
+SICILIA;Enna;Altra strada;Incidente tra veicolo e pedone;0;0;0;0;0;0;2;0;0;0
+SICILIA;Enna;Altra strada;Totale;2;2;14;210;2;0;30;0;0;2
+SICILIA;Enna;Autostrada;Incidente a veicolo isolato;0;0;4;18;0;0;2;0;0;0
+SICILIA;Enna;Autostrada;Incidente tra veicoli;4;0;14;68;0;0;0;0;0;0
+SICILIA;Enna;Autostrada;Totale;4;0;18;86;0;0;2;0;0;0
+SICILIA;Enna;Strada urbana;Incidente a veicolo isolato;0;0;0;22;2;0;16;0;0;0
+SICILIA;Enna;Strada urbana;Incidente tra veicoli;2;2;14;174;14;0;22;2;0;4
+SICILIA;Enna;Strada urbana;Incidente tra veicolo e pedone;0;0;2;22;0;0;0;0;0;0
+SICILIA;Enna;Strada urbana;Totale;2;2;16;218;16;0;38;2;0;4
+SICILIA;Enna;Totale;Incidente a veicolo isolato;0;0;10;70;2;0;24;0;0;2
+SICILIA;Enna;Totale;Incidente tra veicoli;8;4;36;422;16;0;44;2;0;4
+SICILIA;Enna;Totale;Incidente tra veicolo e pedone;0;0;2;22;0;0;2;0;0;0
+SICILIA;Enna;Totale;Totale;8;4;48;514;18;0;70;2;0;6
+SICILIA;Messina;Altra strada;Incidente a veicolo isolato;0;0;0;54;8;2;26;0;0;4
+SICILIA;Messina;Altra strada;Incidente tra veicoli;4;8;18;348;6;2;66;4;0;14
+SICILIA;Messina;Altra strada;Incidente tra veicolo e pedone;2;0;2;4;0;0;4;0;0;0
+SICILIA;Messina;Altra strada;Totale;6;8;20;406;14;4;96;4;0;18
+SICILIA;Messina;Autostrada;Incidente a veicolo isolato;0;0;14;136;0;0;24;0;0;0
+SICILIA;Messina;Autostrada;Incidente tra veicoli;24;0;56;288;0;0;26;0;0;0
+SICILIA;Messina;Autostrada;Totale;24;0;70;424;0;0;50;0;0;0
+SICILIA;Messina;Strada urbana;Incidente a veicolo isolato;0;2;2;154;16;0;106;2;0;30
+SICILIA;Messina;Strada urbana;Incidente tra veicoli;42;18;98;2266;124;4;942;18;4;130
+SICILIA;Messina;Strada urbana;Incidente tra veicolo e pedone;2;0;8;164;6;2;44;0;0;6
+SICILIA;Messina;Strada urbana;Totale;44;20;108;2584;146;6;1092;20;4;166
+SICILIA;Messina;Totale;Incidente a veicolo isolato;0;2;16;344;24;2;156;2;0;34
+SICILIA;Messina;Totale;Incidente tra veicoli;70;26;172;2902;130;6;1034;22;4;144
+SICILIA;Messina;Totale;Incidente tra veicolo e pedone;4;0;10;168;6;2;48;0;0;6
+SICILIA;Messina;Totale;Totale;74;28;198;3414;160;10;1238;24;4;184
+SICILIA;Palermo;Altra strada;Incidente a veicolo isolato;0;0;4;100;0;0;26;2;0;2
+SICILIA;Palermo;Altra strada;Incidente tra veicoli;10;6;60;686;8;0;126;0;0;10
+SICILIA;Palermo;Altra strada;Incidente tra veicolo e pedone;0;0;0;6;0;0;0;0;0;0
+SICILIA;Palermo;Altra strada;Totale;10;6;64;792;8;0;152;2;0;12
+SICILIA;Palermo;Autostrada;Incidente a veicolo isolato;0;0;16;102;0;0;28;0;0;0
+SICILIA;Palermo;Autostrada;Incidente tra veicoli;62;2;78;506;0;0;62;0;0;0
+SICILIA;Palermo;Autostrada;Totale;62;2;94;608;0;0;90;0;0;0
+SICILIA;Palermo;Strada urbana;Incidente a veicolo isolato;0;2;2;306;28;2;370;2;0;100
+SICILIA;Palermo;Strada urbana;Incidente tra veicoli;100;38;190;4202;160;6;1962;46;8;352
+SICILIA;Palermo;Strada urbana;Incidente tra veicolo e pedone;24;4;20;308;16;0;114;2;0;18
+SICILIA;Palermo;Strada urbana;Totale;124;44;212;4816;204;8;2446;50;8;470
+SICILIA;Palermo;Totale;Incidente a veicolo isolato;0;2;22;508;28;2;424;4;0;102
+SICILIA;Palermo;Totale;Incidente tra veicoli;172;46;328;5394;168;6;2150;46;8;362
+SICILIA;Palermo;Totale;Incidente tra veicolo e pedone;24;4;20;314;16;0;114;2;0;18
+SICILIA;Palermo;Totale;Totale;196;52;370;6216;212;8;2688;52;8;482
+SICILIA;Ragusa;Altra strada;Incidente a veicolo isolato;0;0;12;78;6;0;16;0;0;2
+SICILIA;Ragusa;Altra strada;Incidente tra veicoli;20;4;88;562;26;4;88;0;0;16
+SICILIA;Ragusa;Altra strada;Incidente tra veicolo e pedone;2;0;0;2;0;0;0;0;0;0
+SICILIA;Ragusa;Altra strada;Totale;22;4;100;642;32;4;104;0;0;18
+SICILIA;Ragusa;Autostrada;Incidente a veicolo isolato;0;0;2;2;0;0;0;0;0;0
+SICILIA;Ragusa;Autostrada;Incidente tra veicoli;0;0;2;6;0;0;0;0;0;0
+SICILIA;Ragusa;Autostrada;Totale;0;0;4;8;0;0;0;0;0;0
+SICILIA;Ragusa;Strada urbana;Incidente a veicolo isolato;0;0;6;66;20;0;18;2;0;4
+SICILIA;Ragusa;Strada urbana;Incidente tra veicoli;22;6;74;1126;170;0;228;12;0;48
+SICILIA;Ragusa;Strada urbana;Incidente tra veicolo e pedone;6;0;6;66;8;0;2;0;0;2
+SICILIA;Ragusa;Strada urbana;Totale;28;6;86;1258;198;0;248;14;0;54
+SICILIA;Ragusa;Totale;Incidente a veicolo isolato;0;0;20;146;26;0;34;2;0;6
+SICILIA;Ragusa;Totale;Incidente tra veicoli;42;10;164;1694;196;4;316;12;0;64
+SICILIA;Ragusa;Totale;Incidente tra veicolo e pedone;8;0;6;68;8;0;2;0;0;2
+SICILIA;Ragusa;Totale;Totale;50;10;190;1908;230;4;352;14;0;72
+SICILIA;Siracusa;Altra strada;Incidente a veicolo isolato;0;0;4;110;6;0;28;2;0;2
+SICILIA;Siracusa;Altra strada;Incidente tra veicoli;14;2;74;524;28;2;136;4;0;18
+SICILIA;Siracusa;Altra strada;Incidente tra veicolo e pedone;0;0;0;8;2;0;0;0;0;0
+SICILIA;Siracusa;Altra strada;Totale;14;2;78;642;36;2;164;6;0;20
+SICILIA;Siracusa;Autostrada;Incidente a veicolo isolato;0;0;4;28;0;0;2;0;0;0
+SICILIA;Siracusa;Autostrada;Incidente tra veicoli;14;2;12;82;0;0;0;0;0;0
+SICILIA;Siracusa;Autostrada;Totale;14;2;16;110;0;0;2;0;0;0
+SICILIA;Siracusa;Strada urbana;Incidente a veicolo isolato;0;0;2;62;24;0;56;0;0;10
+SICILIA;Siracusa;Strada urbana;Incidente tra veicoli;14;4;44;1316;192;14;436;22;0;58
+SICILIA;Siracusa;Strada urbana;Incidente tra veicolo e pedone;6;0;6;100;2;0;24;0;0;0
+SICILIA;Siracusa;Strada urbana;Totale;20;4;52;1478;218;14;516;22;0;68
+SICILIA;Siracusa;Totale;Incidente a veicolo isolato;0;0;10;200;30;0;86;2;0;12
+SICILIA;Siracusa;Totale;Incidente tra veicoli;42;8;130;1922;220;16;572;26;0;76
+SICILIA;Siracusa;Totale;Incidente tra veicolo e pedone;6;0;6;108;4;0;24;0;0;0
+SICILIA;Siracusa;Totale;Totale;48;8;146;2230;254;16;682;28;0;88
+SICILIA;Trapani;Altra strada;Incidente a veicolo isolato;0;0;2;52;0;0;12;0;0;0
+SICILIA;Trapani;Altra strada;Incidente tra veicoli;10;0;28;314;14;0;30;0;0;4
+SICILIA;Trapani;Altra strada;Incidente tra veicolo e pedone;0;0;0;0;2;0;0;0;0;0
+SICILIA;Trapani;Altra strada;Totale;10;0;30;366;16;0;42;0;0;4
+SICILIA;Trapani;Autostrada;Incidente a veicolo isolato;0;0;4;46;0;0;0;0;0;0
+SICILIA;Trapani;Autostrada;Incidente tra veicoli;0;6;4;34;0;0;2;0;0;0
+SICILIA;Trapani;Autostrada;Totale;0;6;8;80;0;0;2;0;0;0
+SICILIA;Trapani;Strada urbana;Incidente a veicolo isolato;0;0;2;102;26;0;18;2;0;2
+SICILIA;Trapani;Strada urbana;Incidente tra veicoli;26;4;74;1576;206;4;286;16;0;74
+SICILIA;Trapani;Strada urbana;Incidente tra veicolo e pedone;0;0;4;108;4;0;4;0;0;4
+SICILIA;Trapani;Strada urbana;Totale;26;4;80;1786;236;4;308;18;0;80
+SICILIA;Trapani;Totale;Incidente a veicolo isolato;0;0;8;200;26;0;30;2;0;2
+SICILIA;Trapani;Totale;Incidente tra veicoli;36;10;106;1924;220;4;318;16;0;78
+SICILIA;Trapani;Totale;Incidente tra veicolo e pedone;0;0;4;108;6;0;4;0;0;4
+SICILIA;Trapani;Totale;Totale;36;10;118;2232;252;4;352;18;0;84
+TOSCANA;Arezzo;Altra strada;Incidente a veicolo isolato;2;0;10;152;6;0;26;0;0;2
+TOSCANA;Arezzo;Altra strada;Incidente tra veicoli;12;2;54;486;12;0;66;2;0;30
+TOSCANA;Arezzo;Altra strada;Incidente tra veicolo e pedone;0;0;4;16;0;0;0;0;0;0
+TOSCANA;Arezzo;Altra strada;Totale;14;2;68;654;18;0;92;2;0;32
+TOSCANA;Arezzo;Autostrada;Incidente a veicolo isolato;0;2;4;16;0;0;2;0;0;0
+TOSCANA;Arezzo;Autostrada;Incidente tra veicoli;12;2;58;138;0;0;2;0;0;0
+TOSCANA;Arezzo;Autostrada;Incidente tra veicolo e pedone;0;0;0;2;0;0;0;0;0;0
+TOSCANA;Arezzo;Autostrada;Totale;12;4;62;156;0;0;4;0;0;0
+TOSCANA;Arezzo;Strada urbana;Incidente a veicolo isolato;2;0;2;100;18;0;22;0;0;8
+TOSCANA;Arezzo;Strada urbana;Incidente tra veicoli;34;18;126;1178;80;0;190;2;0;146
+TOSCANA;Arezzo;Strada urbana;Incidente tra veicolo e pedone;12;2;14;162;8;0;4;0;0;0
+TOSCANA;Arezzo;Strada urbana;Totale;48;20;142;1440;106;0;216;2;0;154
+TOSCANA;Arezzo;Totale;Incidente a veicolo isolato;4;2;16;268;24;0;50;0;0;10
+TOSCANA;Arezzo;Totale;Incidente tra veicoli;58;22;238;1802;92;0;258;4;0;176
+TOSCANA;Arezzo;Totale;Incidente tra veicolo e pedone;12;2;18;180;8;0;4;0;0;0
+TOSCANA;Arezzo;Totale;Totale;74;26;272;2250;124;0;312;4;0;186
+TOSCANA;Firenze;Altra strada;Incidente a veicolo isolato;0;4;14;244;22;0;198;0;0;36
+TOSCANA;Firenze;Altra strada;Incidente tra veicoli;100;10;218;1514;38;2;296;0;0;98
+TOSCANA;Firenze;Altra strada;Incidente tra veicolo e pedone;0;0;2;34;2;0;2;0;0;0
+TOSCANA;Firenze;Altra strada;Totale;100;14;234;1792;62;2;496;0;0;134
+TOSCANA;Firenze;Autostrada;Incidente a veicolo isolato;0;0;18;86;0;0;18;0;0;0
+TOSCANA;Firenze;Autostrada;Incidente tra veicoli;92;4;296;640;0;0;18;0;0;0
+TOSCANA;Firenze;Autostrada;Incidente tra veicolo e pedone;0;0;0;2;0;0;0;0;0;0
+TOSCANA;Firenze;Autostrada;Totale;92;4;314;728;0;0;36;0;0;0
+TOSCANA;Firenze;Strada urbana;Incidente a veicolo isolato;0;16;8;322;112;0;542;4;0;238
+TOSCANA;Firenze;Strada urbana;Incidente tra veicoli;168;106;466;6154;436;4;2656;24;2;926
+TOSCANA;Firenze;Strada urbana;Incidente tra veicolo e pedone;28;24;44;720;18;0;212;4;4;56
+TOSCANA;Firenze;Strada urbana;Totale;196;146;518;7196;566;4;3410;32;6;1220
+TOSCANA;Firenze;Totale;Incidente a veicolo isolato;0;20;40;652;134;0;758;4;0;274
+TOSCANA;Firenze;Totale;Incidente tra veicoli;360;120;980;8308;474;6;2970;24;2;1024
+TOSCANA;Firenze;Totale;Incidente tra veicolo e pedone;28;24;46;756;20;0;214;4;4;56
+TOSCANA;Firenze;Totale;Totale;388;164;1066;9716;628;6;3942;32;6;1354
+TOSCANA;Grosseto;Altra strada;Incidente a veicolo isolato;0;0;14;190;6;0;42;0;0;2
+TOSCANA;Grosseto;Altra strada;Incidente tra veicoli;8;2;60;550;12;2;58;0;0;14
+TOSCANA;Grosseto;Altra strada;Incidente tra veicolo e pedone;0;0;0;6;0;0;2;0;0;0
+TOSCANA;Grosseto;Altra strada;Totale;8;2;74;746;18;2;102;0;0;16
+TOSCANA;Grosseto;Strada urbana;Incidente a veicolo isolato;0;0;0;58;18;0;28;0;0;12
+TOSCANA;Grosseto;Strada urbana;Incidente tra veicoli;22;6;78;1072;102;0;152;2;0;114
+TOSCANA;Grosseto;Strada urbana;Incidente tra veicolo e pedone;4;2;6;136;0;0;10;0;0;4
+TOSCANA;Grosseto;Strada urbana;Totale;26;8;84;1266;120;0;190;2;0;130
+TOSCANA;Grosseto;Totale;Incidente a veicolo isolato;0;0;14;248;24;0;70;0;0;14
+TOSCANA;Grosseto;Totale;Incidente tra veicoli;30;8;138;1622;114;2;210;2;0;128
+TOSCANA;Grosseto;Totale;Incidente tra veicolo e pedone;4;2;6;142;0;0;12;0;0;4
+TOSCANA;Grosseto;Totale;Totale;34;10;158;2012;138;2;292;2;0;146
+TOSCANA;Livorno;Altra strada;Incidente a veicolo isolato;0;0;4;94;10;0;32;2;0;2
+TOSCANA;Livorno;Altra strada;Incidente tra veicoli;20;6;90;568;30;0;142;2;0;26
+TOSCANA;Livorno;Altra strada;Incidente tra veicolo e pedone;0;0;2;8;0;0;0;0;0;0
+TOSCANA;Livorno;Altra strada;Totale;20;6;96;670;40;0;174;4;0;28
+TOSCANA;Livorno;Autostrada;Incidente a veicolo isolato;0;0;2;4;0;0;2;0;0;0
+TOSCANA;Livorno;Autostrada;Incidente tra veicoli;4;0;6;24;0;0;0;0;0;0
+TOSCANA;Livorno;Autostrada;Totale;4;0;8;28;0;0;2;0;0;0
+TOSCANA;Livorno;Strada urbana;Incidente a veicolo isolato;2;4;2;96;36;2;128;0;0;14
+TOSCANA;Livorno;Strada urbana;Incidente tra veicoli;60;22;192;2308;380;2;1202;2;0;282
+TOSCANA;Livorno;Strada urbana;Incidente tra veicolo e pedone;2;4;14;228;14;0;74;2;0;6
+TOSCANA;Livorno;Strada urbana;Totale;64;30;208;2632;430;4;1404;4;0;302
+TOSCANA;Livorno;Totale;Incidente a veicolo isolato;2;4;8;194;46;2;162;2;0;16
+TOSCANA;Livorno;Totale;Incidente tra veicoli;84;28;288;2900;410;2;1344;4;0;308
+TOSCANA;Livorno;Totale;Incidente tra veicolo e pedone;2;4;16;236;14;0;74;2;0;6
+TOSCANA;Livorno;Totale;Totale;88;36;312;3330;470;4;1580;8;0;330
+TOSCANA;Lucca;Altra strada;Incidente a veicolo isolato;0;0;4;56;0;0;10;2;0;10
+TOSCANA;Lucca;Altra strada;Incidente tra veicoli;12;0;46;416;8;0;60;0;0;22
+TOSCANA;Lucca;Altra strada;Incidente tra veicolo e pedone;0;0;0;4;0;0;0;0;0;0
+TOSCANA;Lucca;Altra strada;Totale;12;0;50;476;8;0;70;2;0;32
+TOSCANA;Lucca;Autostrada;Incidente a veicolo isolato;0;0;8;30;0;0;4;0;0;0
+TOSCANA;Lucca;Autostrada;Incidente tra veicoli;28;2;30;178;0;0;8;0;0;0
+TOSCANA;Lucca;Autostrada;Totale;28;2;38;208;0;0;12;0;0;0
+TOSCANA;Lucca;Strada urbana;Incidente a veicolo isolato;2;0;6;132;26;0;40;6;0;20
+TOSCANA;Lucca;Strada urbana;Incidente tra veicoli;96;26;332;3122;338;26;798;10;0;496
+TOSCANA;Lucca;Strada urbana;Incidente tra veicolo e pedone;4;0;20;190;10;0;22;0;0;12
+TOSCANA;Lucca;Strada urbana;Totale;102;26;358;3444;374;26;860;16;0;528
+TOSCANA;Lucca;Totale;Incidente a veicolo isolato;2;0;18;218;26;0;54;8;0;30
+TOSCANA;Lucca;Totale;Incidente tra veicoli;136;28;408;3716;346;26;866;10;0;518
+TOSCANA;Lucca;Totale;Incidente tra veicolo e pedone;4;0;20;194;10;0;22;0;0;12
+TOSCANA;Lucca;Totale;Totale;142;28;446;4128;382;26;942;18;0;560
+TOSCANA;Pisa;Altra strada;Incidente a veicolo isolato;0;2;14;148;4;0;36;2;0;4
+TOSCANA;Pisa;Altra strada;Incidente tra veicoli;48;4;162;1058;20;0;126;0;0;58
+TOSCANA;Pisa;Altra strada;Incidente tra veicolo e pedone;0;0;0;20;0;0;4;0;0;0
+TOSCANA;Pisa;Altra strada;Totale;48;6;176;1226;24;0;166;2;0;62
+TOSCANA;Pisa;Autostrada;Incidente a veicolo isolato;0;0;4;26;0;0;6;0;0;0
+TOSCANA;Pisa;Autostrada;Incidente tra veicoli;20;0;24;84;0;0;4;0;0;0
+TOSCANA;Pisa;Autostrada;Totale;20;0;28;110;0;0;10;0;0;0
+TOSCANA;Pisa;Strada urbana;Incidente a veicolo isolato;0;6;12;120;24;0;46;0;0;14
+TOSCANA;Pisa;Strada urbana;Incidente tra veicoli;64;22;226;2618;128;2;692;2;0;292
+TOSCANA;Pisa;Strada urbana;Incidente tra veicolo e pedone;8;6;10;242;8;0;28;2;0;16
+TOSCANA;Pisa;Strada urbana;Totale;72;34;248;2980;160;2;766;4;0;322
+TOSCANA;Pisa;Totale;Incidente a veicolo isolato;0;8;30;294;28;0;88;2;0;18
+TOSCANA;Pisa;Totale;Incidente tra veicoli;132;26;412;3760;148;2;822;2;0;350
+TOSCANA;Pisa;Totale;Incidente tra veicolo e pedone;8;6;10;262;8;0;32;2;0;16
+TOSCANA;Pisa;Totale;Totale;140;40;452;4316;184;2;942;6;0;384
+TOSCANA;Pistoia;Altra strada;Incidente a veicolo isolato;0;0;2;72;2;0;26;0;0;6
+TOSCANA;Pistoia;Altra strada;Incidente tra veicoli;16;0;52;526;12;0;70;0;0;32
+TOSCANA;Pistoia;Altra strada;Incidente tra veicolo e pedone;0;0;0;14;0;0;0;0;0;0
+TOSCANA;Pistoia;Altra strada;Totale;16;0;54;612;14;0;96;0;0;38
+TOSCANA;Pistoia;Autostrada;Incidente a veicolo isolato;0;0;2;6;0;0;0;0;0;0
+TOSCANA;Pistoia;Autostrada;Incidente tra veicoli;18;2;50;162;0;0;2;0;0;0
+TOSCANA;Pistoia;Autostrada;Totale;18;2;52;168;0;0;2;0;0;0
+TOSCANA;Pistoia;Strada urbana;Incidente a veicolo isolato;0;0;4;92;24;0;28;0;0;12
+TOSCANA;Pistoia;Strada urbana;Incidente tra veicoli;20;10;104;1312;136;0;194;4;0;174
+TOSCANA;Pistoia;Strada urbana;Incidente tra veicolo e pedone;10;4;8;182;2;0;12;4;0;2
+TOSCANA;Pistoia;Strada urbana;Totale;30;14;116;1586;162;0;234;8;0;188
+TOSCANA;Pistoia;Totale;Incidente a veicolo isolato;0;0;8;170;26;0;54;0;0;18
+TOSCANA;Pistoia;Totale;Incidente tra veicoli;54;12;206;2000;148;0;266;4;0;206
+TOSCANA;Pistoia;Totale;Incidente tra veicolo e pedone;10;4;8;196;2;0;12;4;0;2
+TOSCANA;Pistoia;Totale;Totale;64;16;222;2366;176;0;332;8;0;226
+TOSCANA;Prato;Altra strada;Incidente a veicolo isolato;0;0;2;16;4;0;4;0;0;4
+TOSCANA;Prato;Altra strada;Incidente tra veicoli;0;0;8;68;0;0;14;0;0;10
+TOSCANA;Prato;Altra strada;Incidente tra veicolo e pedone;0;0;2;2;0;0;0;0;0;0
+TOSCANA;Prato;Altra strada;Totale;0;0;12;86;4;0;18;0;0;14
+TOSCANA;Prato;Autostrada;Incidente a veicolo isolato;0;0;2;4;0;0;2;0;0;0
+TOSCANA;Prato;Autostrada;Incidente tra veicoli;6;0;12;66;0;0;0;0;0;0
+TOSCANA;Prato;Autostrada;Totale;6;0;14;70;0;0;2;0;0;0
+TOSCANA;Prato;Strada urbana;Incidente a veicolo isolato;0;0;6;58;12;0;40;0;0;38
+TOSCANA;Prato;Strada urbana;Incidente tra veicoli;56;24;148;1760;142;2;364;4;0;438
+TOSCANA;Prato;Strada urbana;Incidente tra veicolo e pedone;20;18;22;234;8;0;14;0;0;8
+TOSCANA;Prato;Strada urbana;Totale;76;42;176;2052;162;2;418;4;0;484
+TOSCANA;Prato;Totale;Incidente a veicolo isolato;0;0;10;78;16;0;46;0;0;42
+TOSCANA;Prato;Totale;Incidente tra veicoli;62;24;168;1894;142;2;378;4;0;448
+TOSCANA;Prato;Totale;Incidente tra veicolo e pedone;20;18;24;236;8;0;14;0;0;8
+TOSCANA;Prato;Totale;Totale;82;42;202;2208;166;2;438;4;0;498
+TOSCANA;Siena;Altra strada;Incidente a veicolo isolato;0;0;8;132;6;0;34;2;0;4
+TOSCANA;Siena;Altra strada;Incidente tra veicoli;42;8;62;518;18;0;82;0;0;14
+TOSCANA;Siena;Altra strada;Incidente tra veicolo e pedone;0;0;2;4;2;0;0;0;0;0
+TOSCANA;Siena;Altra strada;Totale;42;8;72;654;26;0;116;2;0;18
+TOSCANA;Siena;Autostrada;Incidente a veicolo isolato;0;0;6;46;0;0;0;0;0;0
+TOSCANA;Siena;Autostrada;Incidente tra veicoli;4;6;42;86;0;0;6;0;0;0
+TOSCANA;Siena;Autostrada;Totale;4;6;48;132;0;0;6;0;0;0
+TOSCANA;Siena;Strada urbana;Incidente a veicolo isolato;0;4;2;78;4;0;26;0;0;2
+TOSCANA;Siena;Strada urbana;Incidente tra veicoli;30;20;64;858;92;0;194;2;0;60
+TOSCANA;Siena;Strada urbana;Incidente tra veicolo e pedone;0;0;14;132;2;0;8;0;0;0
+TOSCANA;Siena;Strada urbana;Totale;30;24;80;1068;98;0;228;2;0;62
+TOSCANA;Siena;Totale;Incidente a veicolo isolato;0;4;16;256;10;0;60;2;0;6
+TOSCANA;Siena;Totale;Incidente tra veicoli;76;34;168;1462;110;0;282;2;0;74
+TOSCANA;Siena;Totale;Incidente tra veicolo e pedone;0;0;16;136;4;0;8;0;0;0
+TOSCANA;Siena;Totale;Totale;76;38;200;1854;124;0;350;4;0;80
+TRENTINO_AA.;Trento;Altra strada;Incidente a veicolo isolato;4;0;14;254;14;0;114;0;0;16
+TRENTINO_AA.;Trento;Altra strada;Incidente tra veicoli;40;12;176;1048;12;2;254;2;0;66
+TRENTINO_AA.;Trento;Altra strada;Incidente tra veicolo e pedone;0;2;12;32;2;0;6;0;0;0
+TRENTINO_AA.;Trento;Altra strada;Totale;44;14;202;1334;28;2;374;2;0;82
+TRENTINO_AA.;Trento;Autostrada;Incidente a veicolo isolato;0;0;0;14;0;0;6;0;0;0
+TRENTINO_AA.;Trento;Autostrada;Incidente tra veicoli;40;2;56;170;0;0;12;0;0;0
+TRENTINO_AA.;Trento;Autostrada;Totale;40;2;56;184;0;0;18;0;0;0
+TRENTINO_AA.;Trento;Strada urbana;Incidente a veicolo isolato;4;2;0;106;20;0;56;0;0;22
+TRENTINO_AA.;Trento;Strada urbana;Incidente tra veicoli;24;16;100;1084;54;4;268;0;0;272
+TRENTINO_AA.;Trento;Strada urbana;Incidente tra veicolo e pedone;2;2;16;184;2;0;8;0;0;4
+TRENTINO_AA.;Trento;Strada urbana;Totale;30;20;116;1374;76;4;332;0;0;298
+TRENTINO_AA.;Trento;Totale;Incidente a veicolo isolato;8;2;14;374;34;0;176;0;0;38
+TRENTINO_AA.;Trento;Totale;Incidente tra veicoli;104;30;332;2302;66;6;534;2;0;338
+TRENTINO_AA.;Trento;Totale;Incidente tra veicolo e pedone;2;4;28;216;4;0;14;0;0;4
+TRENTINO_AA.;Trento;Totale;Totale;114;36;374;2892;104;6;724;2;0;380
+UMBRIA;Perugia;Altra strada;Incidente a veicolo isolato;0;0;20;302;6;0;54;2;0;4
+UMBRIA;Perugia;Altra strada;Incidente tra veicoli;36;2;168;1232;32;2;80;4;0;24
+UMBRIA;Perugia;Altra strada;Incidente tra veicolo e pedone;0;0;4;38;0;0;0;2;0;0
+UMBRIA;Perugia;Altra strada;Totale;36;2;192;1572;38;2;134;8;0;28
+UMBRIA;Perugia;Autostrada;Incidente a veicolo isolato;0;0;4;34;0;0;6;0;0;0
+UMBRIA;Perugia;Autostrada;Incidente tra veicoli;10;0;24;144;0;0;4;0;0;0
+UMBRIA;Perugia;Autostrada;Totale;10;0;28;178;0;0;10;0;0;0
+UMBRIA;Perugia;Strada urbana;Incidente a veicolo isolato;0;2;12;226;30;2;42;2;0;14
+UMBRIA;Perugia;Strada urbana;Incidente tra veicoli;34;10;206;2350;190;0;278;20;0;192
+UMBRIA;Perugia;Strada urbana;Incidente tra veicolo e pedone;6;2;24;282;6;0;10;4;0;2
+UMBRIA;Perugia;Strada urbana;Totale;40;14;242;2858;226;2;330;26;0;208
+UMBRIA;Perugia;Totale;Incidente a veicolo isolato;0;2;36;562;36;2;102;4;0;18
+UMBRIA;Perugia;Totale;Incidente tra veicoli;80;12;398;3726;222;2;362;24;0;216
+UMBRIA;Perugia;Totale;Incidente tra veicolo e pedone;6;2;28;320;6;0;10;6;0;2
+UMBRIA;Perugia;Totale;Totale;86;16;462;4608;264;4;474;34;0;236
+UMBRIA;Terni;Altra strada;Incidente a veicolo isolato;0;2;6;104;8;0;28;2;0;2
+UMBRIA;Terni;Altra strada;Incidente tra veicoli;36;2;40;386;4;0;56;2;0;14
+UMBRIA;Terni;Altra strada;Incidente tra veicolo e pedone;0;0;2;12;0;0;0;0;0;0
+UMBRIA;Terni;Altra strada;Totale;36;4;48;502;12;0;84;4;0;16
+UMBRIA;Terni;Autostrada;Incidente a veicolo isolato;0;0;4;24;0;0;0;0;0;0
+UMBRIA;Terni;Autostrada;Incidente tra veicoli;14;4;40;90;0;0;0;0;0;0
+UMBRIA;Terni;Autostrada;Totale;14;4;44;114;0;0;0;0;0;0
+UMBRIA;Terni;Strada urbana;Incidente a veicolo isolato;0;6;4;92;18;0;24;2;0;12
+UMBRIA;Terni;Strada urbana;Incidente tra veicoli;20;6;84;874;54;4;132;4;0;118
+UMBRIA;Terni;Strada urbana;Incidente tra veicolo e pedone;4;0;18;134;0;0;2;0;0;2
+UMBRIA;Terni;Strada urbana;Totale;24;12;106;1100;72;4;158;6;0;132
+UMBRIA;Terni;Totale;Incidente a veicolo isolato;0;8;14;220;26;0;52;4;0;14
+UMBRIA;Terni;Totale;Incidente tra veicoli;70;12;164;1350;58;4;188;6;0;132
+UMBRIA;Terni;Totale;Incidente tra veicolo e pedone;4;0;20;146;0;0;2;0;0;2
+UMBRIA;Terni;Totale;Totale;74;20;198;1716;84;4;242;10;0;148
+VENETO;Belluno;Altra strada;Incidente a veicolo isolato;0;0;4;102;6;0;36;0;0;8
+VENETO;Belluno;Altra strada;Incidente tra veicoli;34;4;60;446;10;0;98;0;0;32
+VENETO;Belluno;Altra strada;Incidente tra veicolo e pedone;0;0;0;22;0;0;0;0;0;0
+VENETO;Belluno;Altra strada;Totale;34;4;64;570;16;0;134;0;0;40
+VENETO;Belluno;Autostrada;Incidente a veicolo isolato;0;0;0;2;0;0;2;0;0;0
+VENETO;Belluno;Autostrada;Totale;0;0;0;2;0;0;2;0;0;0
+VENETO;Belluno;Strada urbana;Incidente a veicolo isolato;0;0;4;78;2;0;16;0;0;6
+VENETO;Belluno;Strada urbana;Incidente tra veicoli;4;8;40;526;18;0;52;0;0;48
+VENETO;Belluno;Strada urbana;Incidente tra veicolo e pedone;2;2;2;40;0;0;2;0;0;0
+VENETO;Belluno;Strada urbana;Totale;6;10;46;644;20;0;70;0;0;54
+VENETO;Belluno;Totale;Incidente a veicolo isolato;0;0;8;182;8;0;54;0;0;14
+VENETO;Belluno;Totale;Incidente tra veicoli;38;12;100;972;28;0;150;0;0;80
+VENETO;Belluno;Totale;Incidente tra veicolo e pedone;2;2;2;62;0;0;2;0;0;0
+VENETO;Belluno;Totale;Totale;40;14;110;1216;36;0;206;0;0;94
+VENETO;Padova;Altra strada;Incidente a veicolo isolato;4;0;10;156;4;0;50;0;0;8
+VENETO;Padova;Altra strada;Incidente tra veicoli;48;2;212;1336;20;0;148;0;0;118
+VENETO;Padova;Altra strada;Incidente tra veicolo e pedone;0;0;4;28;2;0;4;0;0;4
+VENETO;Padova;Altra strada;Totale;52;2;226;1520;26;0;202;0;0;130
+VENETO;Padova;Autostrada;Incidente a veicolo isolato;0;0;6;30;0;0;2;0;0;0
+VENETO;Padova;Autostrada;Incidente tra veicoli;26;0;84;190;0;0;10;0;0;0
+VENETO;Padova;Autostrada;Totale;26;0;90;220;0;0;12;0;0;0
+VENETO;Padova;Strada urbana;Incidente a veicolo isolato;0;6;18;342;22;0;154;0;0;90
+VENETO;Padova;Strada urbana;Incidente tra veicoli;54;40;358;3626;160;0;708;6;6;1140
+VENETO;Padova;Strada urbana;Incidente tra veicolo e pedone;12;10;22;274;2;0;22;2;2;36
+VENETO;Padova;Strada urbana;Totale;66;56;398;4242;184;0;884;8;8;1266
+VENETO;Padova;Totale;Incidente a veicolo isolato;4;6;34;528;26;0;206;0;0;98
+VENETO;Padova;Totale;Incidente tra veicoli;128;42;654;5152;180;0;866;6;6;1258
+VENETO;Padova;Totale;Incidente tra veicolo e pedone;12;10;26;302;4;0;26;2;2;40
+VENETO;Padova;Totale;Totale;144;58;714;5982;210;0;1098;8;8;1396
+VENETO;Rovigo;Altra strada;Incidente a veicolo isolato;0;0;10;124;2;0;12;2;0;2
+VENETO;Rovigo;Altra strada;Incidente tra veicoli;26;0;74;482;0;0;42;0;0;34
+VENETO;Rovigo;Altra strada;Incidente tra veicolo e pedone;0;0;0;8;0;0;0;0;0;0
+VENETO;Rovigo;Altra strada;Totale;26;0;84;614;2;0;54;2;0;36
+VENETO;Rovigo;Autostrada;Incidente a veicolo isolato;0;0;4;18;0;0;6;0;0;0
+VENETO;Rovigo;Autostrada;Incidente tra veicoli;2;0;18;48;0;0;2;0;0;0
+VENETO;Rovigo;Autostrada;Totale;2;0;22;66;0;0;8;0;0;0
+VENETO;Rovigo;Strada urbana;Incidente a veicolo isolato;0;0;2;74;6;0;10;0;0;10
+VENETO;Rovigo;Strada urbana;Incidente tra veicoli;16;0;52;568;22;0;52;0;0;118
+VENETO;Rovigo;Strada urbana;Incidente tra veicolo e pedone;4;0;0;58;2;0;0;0;0;4
+VENETO;Rovigo;Strada urbana;Totale;20;0;54;700;30;0;62;0;0;132
+VENETO;Rovigo;Totale;Incidente a veicolo isolato;0;0;16;216;8;0;28;2;0;12
+VENETO;Rovigo;Totale;Incidente tra veicoli;44;0;144;1098;22;0;96;0;0;152
+VENETO;Rovigo;Totale;Incidente tra veicolo e pedone;4;0;0;66;2;0;0;0;0;4
+VENETO;Rovigo;Totale;Totale;48;0;160;1380;32;0;124;2;0;168
+VENETO;Treviso;Altra strada;Incidente a veicolo isolato;2;0;34;252;6;0;48;2;0;2
+VENETO;Treviso;Altra strada;Incidente tra veicoli;40;8;180;1512;24;0;144;4;0;134
+VENETO;Treviso;Altra strada;Incidente tra veicolo e pedone;4;0;2;24;2;2;2;0;0;0
+VENETO;Treviso;Altra strada;Totale;46;8;216;1788;32;2;194;6;0;136
+VENETO;Treviso;Autostrada;Incidente a veicolo isolato;0;0;2;36;0;0;6;0;0;0
+VENETO;Treviso;Autostrada;Incidente tra veicoli;14;0;74;118;0;0;2;0;0;0
+VENETO;Treviso;Autostrada;Incidente tra veicolo e pedone;0;0;2;0;0;0;0;0;0;0
+VENETO;Treviso;Autostrada;Totale;14;0;78;154;0;0;8;0;0;0
+VENETO;Treviso;Strada urbana;Incidente a veicolo isolato;4;0;14;268;16;0;44;4;0;26
+VENETO;Treviso;Strada urbana;Incidente tra veicoli;60;26;224;2826;68;2;388;0;0;612
+VENETO;Treviso;Strada urbana;Incidente tra veicolo e pedone;6;4;12;226;0;0;10;0;0;14
+VENETO;Treviso;Strada urbana;Totale;70;30;250;3320;84;2;442;4;0;652
+VENETO;Treviso;Totale;Incidente a veicolo isolato;6;0;50;556;22;0;98;6;0;28
+VENETO;Treviso;Totale;Incidente tra veicoli;114;34;478;4456;92;2;534;4;0;746
+VENETO;Treviso;Totale;Incidente tra veicolo e pedone;10;4;16;250;2;2;12;0;0;14
+VENETO;Treviso;Totale;Totale;130;38;544;5262;116;4;644;10;0;788
+VENETO;Venezia;Altra strada;Incidente a veicolo isolato;0;0;20;226;6;0;64;0;0;14
+VENETO;Venezia;Altra strada;Incidente tra veicoli;48;26;148;1358;22;0;176;0;0;84
+VENETO;Venezia;Altra strada;Incidente tra veicolo e pedone;2;0;4;22;0;0;0;0;0;4
+VENETO;Venezia;Altra strada;Totale;50;26;172;1606;28;0;240;0;0;102
+VENETO;Venezia;Autostrada;Incidente a veicolo isolato;0;0;6;38;0;0;10;0;0;0
+VENETO;Venezia;Autostrada;Incidente tra veicoli;32;6;142;346;0;0;18;0;0;0
+VENETO;Venezia;Autostrada;Totale;32;6;148;384;0;0;28;0;0;0
+VENETO;Venezia;Strada urbana;Incidente a veicolo isolato;0;8;6;242;26;0;96;2;2;86
+VENETO;Venezia;Strada urbana;Incidente tra veicoli;44;42;312;3018;104;0;522;6;2;732
+VENETO;Venezia;Strada urbana;Incidente tra veicolo e pedone;20;8;32;324;6;0;18;0;0;22
+VENETO;Venezia;Strada urbana;Totale;64;58;350;3584;136;0;636;8;4;840
+VENETO;Venezia;Totale;Incidente a veicolo isolato;0;8;32;506;32;0;170;2;2;100
+VENETO;Venezia;Totale;Incidente tra veicoli;124;74;602;4722;126;0;716;6;2;816
+VENETO;Venezia;Totale;Incidente tra veicolo e pedone;22;8;36;346;6;0;18;0;0;26
+VENETO;Venezia;Totale;Totale;146;90;670;5574;164;0;904;8;4;942
+VENETO;Verona;Altra strada;Incidente a veicolo isolato;2;0;32;186;12;0;86;2;0;16
+VENETO;Verona;Altra strada;Incidente tra veicoli;68;4;224;1378;44;0;222;2;0;128
+VENETO;Verona;Altra strada;Incidente tra veicolo e pedone;2;0;6;18;0;0;2;0;0;2
+VENETO;Verona;Altra strada;Totale;72;4;262;1582;56;0;310;4;0;146
+VENETO;Verona;Autostrada;Incidente a veicolo isolato;0;0;12;54;0;0;10;0;0;0
+VENETO;Verona;Autostrada;Incidente tra veicoli;72;0;140;450;0;0;30;0;0;0
+VENETO;Verona;Autostrada;Incidente tra veicolo e pedone;0;0;0;4;0;0;0;0;0;0
+VENETO;Verona;Autostrada;Totale;72;0;152;508;0;0;40;0;0;0
+VENETO;Verona;Strada urbana;Incidente a veicolo isolato;2;12;20;272;54;0;188;0;0;154
+VENETO;Verona;Strada urbana;Incidente tra veicoli;76;42;330;3718;252;2;1006;8;0;668
+VENETO;Verona;Strada urbana;Incidente tra veicolo e pedone;18;4;34;342;8;0;56;0;0;20
+VENETO;Verona;Strada urbana;Totale;96;58;384;4332;314;2;1250;8;0;842
+VENETO;Verona;Totale;Incidente a veicolo isolato;4;12;64;512;66;0;284;2;0;170
+VENETO;Verona;Totale;Incidente tra veicoli;216;46;694;5546;296;2;1258;10;0;796
+VENETO;Verona;Totale;Incidente tra veicolo e pedone;20;4;40;364;8;0;58;0;0;22
+VENETO;Verona;Totale;Totale;240;62;798;6422;370;2;1600;12;0;988
+VENETO;Vicenza;Altra strada;Incidente a veicolo isolato;0;0;6;160;12;0;44;2;0;6
+VENETO;Vicenza;Altra strada;Incidente tra veicoli;32;0;104;862;30;0;130;0;0;78
+VENETO;Vicenza;Altra strada;Incidente tra veicolo e pedone;0;0;0;10;0;0;0;0;0;0
+VENETO;Vicenza;Altra strada;Totale;32;0;110;1032;42;0;174;2;0;84
+VENETO;Vicenza;Autostrada;Incidente a veicolo isolato;0;0;4;34;0;0;6;0;0;0
+VENETO;Vicenza;Autostrada;Incidente tra veicoli;24;0;78;208;0;0;8;2;0;0
+VENETO;Vicenza;Autostrada;Totale;24;0;82;242;0;0;14;2;0;0
+VENETO;Vicenza;Strada urbana;Incidente a veicolo isolato;0;4;8;246;16;0;56;2;0;28
+VENETO;Vicenza;Strada urbana;Incidente tra veicoli;50;10;270;3152;190;0;458;4;0;714
+VENETO;Vicenza;Strada urbana;Incidente tra veicolo e pedone;8;0;12;260;4;0;12;2;0;4
+VENETO;Vicenza;Strada urbana;Totale;58;14;290;3658;210;0;526;8;0;746
+VENETO;Vicenza;Totale;Incidente a veicolo isolato;0;4;18;440;28;0;106;4;0;34
+VENETO;Vicenza;Totale;Incidente tra veicoli;106;10;452;4222;220;0;596;6;0;792
+VENETO;Vicenza;Totale;Incidente tra veicolo e pedone;8;0;12;270;4;0;12;2;0;4
+VENETO;Vicenza;Totale;Totale;114;14;482;4932;252;0;714;12;0;830
